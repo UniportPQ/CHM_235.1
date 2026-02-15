@@ -1,0 +1,482 @@
+[
+    {
+    "type": "pageInfo",
+    "kind": "pureOBJ",
+    "course_title": "Analystical Chemistry",
+    "code": "CHM 235.1",
+    "session": "2007/2008",
+    "topics": ["Chemical Bonding", "Theory of Chemical Bonding", "Atomic Theory and Chemical Equations"],
+    "time": "90"
+  },
+  
+  
+  {
+    "type": "Instruction",
+    "content": "Attempt All Questions"
+  },
+  
+  
+    
+  {
+    "type": "heading",
+    "heading": "Section A"
+  },
+  
+  
+  
+  
+  
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Chemical Bonding",
+      "Theory of Chemical Bonding"
+    ],
+    "Question": {
+      "content": "Which of the following statements regarding ligands are correct?\n(i) NH3 is a monodentate ligand.\n(ii) NH3 can form chelate rings with metals.\n(iii) Acetyl acetone is a tridentate ligand.",
+      "type": "OBJ",
+      "options": [
+        "i, ii only",
+        "ii only",
+        "i only",
+        "i only",
+        "ii, iii only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "i only"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ligands and Chelation</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Understand Monodentate</strong><br>\n    'Mono' means one. NH3 (Ammonia) has only one pair of electrons to give to a metal. So, it is <strong>monodentate</strong>. Statement (i) is correct.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Understand Chelation</strong><br>\n    A 'chelate' is a ring formed when a single ligand grabs a metal with <em>two or more</em> arms. Since NH3 only has one arm (one lone pair), it cannot form a ring. Statement (ii) is incorrect.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Check Acetyl Acetone</strong><br>\n    Acetyl acetone (acac) is actually <strong>bidentate</strong> (two arms), not tridentate (three arms). Statement (iii) is incorrect.\n  </div>\n\n  <div style='background: var(--cAnsBg); color: var(--ansT); padding: 12px; border-radius: 6px; border-left: 4px solid var(--cAns); margin-top: 15px;'>\n    <strong>✓ Final Answer:</strong> Only (i) is correct. Match this with the options provided.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Theory of Chemical Bonding"
+    ],
+    "Question": {
+      "content": "The stability of the metal complex formed with these ligands CH3OH, CH3CH2OH, (CH3)2OH will be determined by which of the following factors?\n(i) chelate effect\n(ii) steric effect\n(iii) resonance",
+      "type": "OBJ",
+      "options": [
+        "i only",
+        "ii only",
+        "iii only",
+        "i, ii only",
+        "ii, iii only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ii only"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Factors Affecting Stability</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What is the Steric Effect?</strong><br>\n    Notice the ligands: they are getting 'bulkier' or fatter (from methyl to isopropyl). <strong>Steric effect</strong> refers to how the size of these molecules causes crowding around the metal. The bigger the ligand, the harder it is to stay stable.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why not the others?</strong><br>\n    These are simple alcohols and don't form rings (no chelate effect) and don't have the double bonds needed for resonance.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Theory of Chemical Bonding"
+    ],
+    "Question": {
+      "content": "Choose the statement that is not correct about the ligand NH2CH2CH2NH2 (ethylenediamine):\n(i) the ligand is bidentate\n(ii) the lone pair of electrons are on the hydrogen atoms\n(iii) NH3 forms more stable metal complex than the ligands",
+      "type": "OBJ",
+      "options": [
+        "ii, iii only",
+        "i, ii only",
+        "i, iii only",
+        "ii only",
+        "all"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ii, iii only"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Spotting the Errors</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Checking (i):</strong> Ethylenediamine has two nitrogens with lone pairs. It <strong>is</strong> bidentate. This statement is correct.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Checking (ii):</strong> Lone pairs are found on the <strong>Nitrogen</strong> atoms, never on Hydrogen. This is <strong>incorrect</strong>.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Checking (iii):</strong> Complexes with bidentate ligands (like this one) are <em>always</em> more stable than those with monodentate ligands (like NH3) because of the chelate effect. So, saying NH3 is more stable is <strong>incorrect</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Atomic Theory and Chemical Equations"
+    ],
+    "Question": {
+      "content": "If 0.9083g of BaSO4 was isolated during a gravimetric process to determine the amount of Ba in weight in the sample, calculate the amount of Ba in the sample. (Ba=137, S=32, O=16, H=1)",
+      "type": "OBJ",
+      "options": [
+        "0.7711g",
+        "0.063g",
+        "0.038g",
+        "0.621g",
+        "0.533g"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.533g"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Gravimetric Calculation</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Get Molar Mass of BaSO4</strong><br>\n    \\( Ba = 137 \\)<br>\n    \\( S = 32 \\)<br>\n    \\( O_4 = 16 \\times 4 = 64 \\)<br>\n    Total = \\( 137 + 32 + 64 = 233\\,g/mol \\)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Find the ratio of Ba</strong><br>\n    In every 233g of BaSO4, there is 137g of Barium.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Calculate for your sample</strong><br>\n    \\( \\text{Weight of Ba} = \\frac{137}{233} \\times 0.9083 \\)\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0; text-align: center;'>\n      \\( \\text{Weight of Ba} = 0.5339\\,g \\)\n    </div>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Atomic Theory and Chemical Equations"
+    ],
+    "Question": {
+      "content": "Identify which of the following laboratory processes are correct:\n(I). Ashless filter paper leaves no ashes when burnt completely\n(II) The precipitation reagent for Ni2+ ion is dimethylglyoxime\n(III) In post-precipitation, impurities precipitate after the same had precipitated",
+      "type": "OBJ",
+      "options": [
+        "all of the above",
+        "none of the above",
+        "I only",
+        "I, II only",
+        "II only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "all of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Lab Procedure Logic</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Process I:</strong> True. Ashless paper is washed with acid to ensure it doesn't leave residue that would mess up your weight measurements.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Process II:</strong> True. Dimethylglyoxime (DMG) is the standard test reagent that turns Nickel (Ni2+) into a bright red solid.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Process III:</strong> True. Post-precipitation is when 'junk' (impurities) starts settling on your target solid <em>after</em> the target solid has already formed.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Atomic Theory and Chemical Equations"
+    ],
+    "Question": {
+      "content": "What is the difference between the laboratory processes of drying and ignition?\n(i) The temperature for ignition is much higher than for drying\n(ii) In drying, both water and all volatile materials are lost but not in ignition\n(iii) Drying is done in an oven while ignition is done in a furnace",
+      "type": "OBJ",
+      "options": [
+        "I only",
+        "I, II only",
+        "I, III only",
+        "I, II, III only",
+        "III only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "I, III only"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Drying vs. Ignition</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Temperature and Equipment:</strong> Drying is usually done below 150°C in an <strong>oven</strong> just to remove water. Ignition happens at much higher temperatures (often over 600°C) in a <strong>muffle furnace</strong> to change the chemical nature of a substance.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Statement II is False:</strong> Ignition actually removes <em>more</em> material than drying. It burns off organic matter and filter paper, leaving only the stable inorganic residue behind.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Atomic Theory and Chemical Equations"
+    ],
+    "Question": {
+      "content": "Regarding colloid precipitates, which of the following statements is not correct?\n(i) Peptization does not lead to granular precipitation\n(ii) A precipitation reagent forms insoluble precipitate with an analyte\n(iii) One of the problems of colloid precipitates is that the precipitate has a large surface area that absorbs impurities",
+      "type": "OBJ",
+      "options": [
+        "III only",
+        "II only",
+        "I only",
+        "II, III only",
+        "all are correct"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "all are correct"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Colloids</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Peptization:</strong> This is when a precipitate breaks back down into tiny particles (colloids) instead of forming big, easy-to-filter grains (granular). So (i) is true.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Surface Area:</strong> Colloids are tiny, which means their total surface area is huge. This acts like a magnet for 'junk' or impurities, which is a major problem in the lab. (iii) is also true.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Atomic Theory and Chemical Equations"
+    ],
+    "Question": {
+      "content": "What is the reason for pouring a precipitate on a glass rod during filtration?\n(i) To avoid spillages\n(ii) The rod will guide the flow of the suspension into the filter paper\n(iii) To prevent peptization",
+      "type": "OBJ",
+      "options": [
+        "I only",
+        "II only",
+        "I, II only",
+        "II, III only",
+        "I, III only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "I, II only"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Lab Technique: The Glass Rod</h4>\n  <img class='imgAns thumbnail' src='https://ppqimg.s3.eu-north-1.amazonaws.com/PQ_IMG/CHM_235.1/2007_2008/n8e.jpeg' alt='Image of filtration using a glass rod '> <div style = 'margin-bottom: 12px;'> \n When you pour liquid down a rod,surface tension keeps the liquid stuck to the rod.This guides it exactly where you want it to go,preventing it from running down the side of the beaker and spilling on the table.It has nothing to do with chemical reactions like peptization.\n </div>\n</div> "
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Atomic Theory and Chemical Equations"
+    ],
+    "Question": {
+      "content": "Identify the correct analyte and its corresponding preparation reagent combination:\n(I) Al, NH3\n(II) I-, AgNO3\n(III) Mg, H2S",
+      "type": "OBJ",
+      "options": [
+        "I only",
+        "I, II only",
+        "III only",
+        "I, III only",
+        "none of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "I, II only"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Matching Analytes to Reagents</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Combination I:</strong> Aluminum (Al) reacts with Ammonia (NH3) to form a solid hydroxide. This is correct.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Combination II:</strong> Iodide (I-) reacts with Silver Nitrate (AgNO3) to form a distinct yellow solid. This is a very common test.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Combination III:</strong> H2S is usually used to test for heavy metals like Lead or Copper, not Magnesium. This is incorrect.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Atomic Theory and Chemical Equations"
+    ],
+    "Question": {
+      "content": "Determine which of the following statements regarding electrochemical analysis are correct:\n(i) A car battery is usable for electrogravimetry\n(ii) Mⁿ⁺ + ne⁻ → M leads to deposition\n(iii) Voltmeter is used for measuring the current",
+      "type": "OBJ",
+      "options": [
+        "I, II, III",
+        "I only",
+        "II only",
+        "I, II only",
+        "II only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "I, II only"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Electrochemical Facts</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>(i) Power Source:</strong> Electrogravimetry requires a steady direct current (DC). A car battery is a classic DC source. Correct.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>(ii) Deposition:</strong> When metal ions gain electrons, they turn into solid metal and 'deposit' or stick onto the electrode. Correct.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>(iii) Voltmeter:</strong> This is a trick! A <strong>Voltmeter</strong> measures voltage. To measure <strong>current</strong>, you need an <strong>Ammeter</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Atomic Theory and Chemical Equations"
+    ],
+    "Question": {
+      "content": "Which of the following statements about non-spontaneous reactions and electrodes are correct?\n(i) Non-spontaneous reaction can be made to proceed by in-put of reversible e.m.f\n(ii) Cathode with large surface area are used in electrogravimetry\n(iii) Activation overpotential can arise when gas evolves at the electrode",
+      "type": "OBJ",
+      "options": [
+        "I, II only",
+        "I, III only",
+        "II, III only",
+        "I, II, III only",
+        "II only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "I, II, III only"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Forcing Reactions to Happen</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    A non-spontaneous reaction is like a ball that won't roll uphill by itself—you have to push it. Adding 'e.m.f' (electricity) provides that push. Larger cathodes help the process by giving more space for the metal to land, and gas bubbles can cause 'overpotential' because they block the electrode surface.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Atomic Theory and Chemical Equations"
+    ],
+    "Question": {
+      "content": "The amount of Fe deposited at an electrode in 4min if 10A of current is passed into a Fe(III) solution will be (Fe=56, Faraday constant = 96500C/mol)",
+      "type": "OBJ",
+      "options": [
+        "0.710g",
+        "0.116g",
+        "0.464g",
+        "0.281g",
+        "0.225g"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.464g"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Mass of Iron</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Find total charge (Q)</strong><br>\n    \\( Q = I \\times t \\)<br>\n    \\( Q = 10\\,A \\times (4 \\times 60)\\,s = 2400\\,C \\)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Use Faraday's Law</strong><br>\n    Iron(III) means n = 3 electrons are needed per atom.<br>\n    \\( \\text{Mass} = \\frac{\\text{Molar Mass} \\times Q}{n \\times F} \\)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Calculate</strong><br>\n    \\( \\text{Mass} = \\frac{56 \\times 2400}{3 \\times 96500} \\)\n    <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0; text-align: center;'>\n      \\( \\text{Mass} = 0.464\\,g \\)\n    </div>\n  </div>\n</div>"
+    }
+  },
+    {
+    "type": "heading",
+    "heading": "Section B"
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 1i",
+    "topic": [
+      "Atomic Theory and Chemical Equations"
+    ],
+    "Question": {
+      "content": "Why is \\(Na_{2}CO_{3} \\cdot NaHCO_{3} \\cdot 2H_{2}O\\) considered a better primary standard reagent than pure \\(Na_{2}CO_{3}\\)?",
+      "type": "OBJ",
+      "options": [
+        "It is not efflorescent",
+        "It is very stable",
+        "It is deliquescent",
+        "None of the above",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It is not efflorescent"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stability of Primary Standards</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    A <strong>primary standard</strong> must have a constant weight when exposed to air. Pure Sodium Carbonate (\\(Na_{2}CO_{3}\\)) is <strong>efflorescent</strong>, meaning it loses water molecules to the air, which changes its mass and ruins titration calculations. \n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    The complex salt (Trona) does not lose water easily under normal conditions, making it more reliable for precise laboratory work.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1ii",
+    "topic": [
+      "Atomic Theory and Chemical Equations"
+    ],
+    "Question": {
+      "content": "If a solution of 12.5ml of a monobasic acid was used to neutralize 25ml of a solution of potassium hydroxide containing 140g of alkali in 250ml of solution, calculate the concentration of the acid. (K=39.10; O=16.00; H=1.008)",
+      "type": "OBJ",
+      "options": [
+        "0.20mol/cm³",
+        "1.50mol/cm³",
+        "0.63mol/cm³",
+        "2.44mol/cm³",
+        "0.42mol/cm³"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.020 mol/cm³"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Neutralization Steps</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Find Concentration of KOH</strong><br>\n    Molar mass = 39.10 + 16.00 + 1.008 = 56.108 g/mol.<br>\n    Moles = 140g / 56.108 g/mol = 2.5 mol.<br>\n    Molarity (base) = 2.5 mol / 0.250 L = 10 mol/L.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Use Titration Formula</strong><br>\n    \\( C_a V_a = C_b V_b \\)<br>\n    \\( C_a \\times 12.5 = 10 \\times 25 \\)<br>\n    \\( C_a = 250 / 12.5 = 20\\,mol/L \\)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Convert to cm³</strong><br>\n    Since \\( 1\\,L = 1000\\,cm^3 \\):<br>\n    \\( 20 / 1000 = 0.020\\,mol/cm^3 \\).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1iii",
+    "topic": [
+      "Atomic Theory and Chemical Equations"
+    ],
+    "Question": {
+      "content": "Provide an example of a visual indicator that turns red at pH> 10.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Phenolphthalein"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n     <img class='imgAns thumbnail' src='https://ppqimg.s3.eu-north-1.amazonaws.com/PQ_IMG/CHM_235.1/2007_2008/n1iiie.png' alt='Image of Phenolphthalein color change'> Phenolphthalein is the most common indicatorfor strong base titrations.It is colorless in acid and turns a deep pinkish - red(magenta) when the pH rises above 8.3 - 10.  </div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 1v",
+    "topic": [
+      "Atomic Theory and Chemical Equations"
+    ],
+    "Question": {
+      "content": "In a titration between a weak base such as \\(NH_{4}OH\\) and a strong acid as HCl, what value will the pH have at the point of neutralization?",
+      "type": "OBJ",
+      "options": [
+        "pH <7",
+        "pH> 7",
+        "pH ≤ 7",
+        "pH ≥ 7",
+        "pH = 7"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "pH <7"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Salt Hydrolysis</h4>\n  When you mix a <strong>Strong Acid</strong> (HCl) with a <strong>Weak Base</strong> (\\(NH_{4}OH\\)), the salt produced (\\(NH_{4}Cl\\)) is slightly acidic. Because the acid is 'stronger' than the base, the final neutralization point sits in the acidic range (below 7).\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2a",
+    "topic": [
+      "Atomic Theory and Chemical Equations"
+    ],
+    "Question": {
+      "content": "Derive the relationship \\(pH = pK_{In} + 1\\) for an acid-base indicator.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(pH = pK_{In} + \\log_{10} \\frac{[In^{-}]}{[HIn]}\\)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Indicator Math</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong>1. Reaction:</strong> An indicator (HIn) breaks down: \\( HIn \\rightleftharpoons H^{+} + In^{-} \\)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong>2. Constant:</strong> \\( K_{In} = \\frac{[H^{+}][In^{-}]}{[HIn]} \\)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong>3. Logs:</strong> Taking the negative log of both sides leads to the Henderson-Hasselbalch equation: <br>\n    \\( pH = pK_{In} + \\log \\frac{[In^{-}]}{[HIn]} \\)\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong>4. Finishing:</strong> We see a complete color change when the concentration of the colored ion (\\(In^{-}\\)) is 10 times the original (\\(HIn\\)). Since \\( \\log(10) = 1 \\), the formula becomes \\( pH = pK_{In} + 1 \\).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2d",
+    "topic": [
+      "Atomic Theory and Chemical Equations"
+    ],
+    "Question": {
+      "content": "Calculate the pH of a 0.025M solution of an ideal, monobasic strong acid at 298K.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1.602"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Simple pH Calculation</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    Because it is a <strong>strong acid</strong>, every molecule releases an \\(H^{+}\\) ion. <br>\n    So, \\( [H^{+}] = 0.025\\,M \\).\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    \\( pH = -\\log[H^{+}] \\)<br>\n    \\( pH = -\\log(0.025) \\)\n  </div>\n\n  <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; text-align: center;'>\n    \\( pH = 1.602 \\)\n  </div>\n</div>"
+    }
+  }
+]
