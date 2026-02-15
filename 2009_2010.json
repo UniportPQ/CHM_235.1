@@ -1,0 +1,451 @@
+[
+    
+    {
+      "type": "pageInfo",
+      "kind": "pureOBJ",
+      "course_title": "Analystical Chemistry",
+      "code": "CHM 235.1",
+      "session": "2009/2010",
+      "topics": ["Atomic Theory and Chemical Equations", "Chemical Bonding", "Theory of Chemical Bonding"],
+      "time": "90"
+    },
+    
+    
+    {
+      "type": "Instruction",
+      "content": "Attempt All Questions"
+    },
+    
+    {
+      "type": "heading",
+      "heading": "Section A"
+    },
+      {
+      "type": "Question",
+      "name": "Question 1",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "What is the specific name given to the reagent used in gravimetric analysis to react with an analyte?",
+        "type": "subjective"
+      },
+      "Answer": {
+        "type": "string",
+        "content": "Precipitating reagent (or Precipitant)"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Gravimetric Reagents</h4>\n  In gravimetry, we want to turn a dissolved substance into a solid so we can weigh it. The chemical we add to make this happen is called a <strong>precipitating reagent</strong>. It must react specifically with the analyte to form a stable, insoluble solid.\n</div>"
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 2",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "In gravimetric analysis, what specific substance or group of substances can Benzidene be used to analyse?",
+        "type": "subjective"
+      },
+      "Answer": {
+        "type": "string",
+        "content": "Sulfate ions (\\(SO_{4}^{2-}\\))"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Organic Precipitants</h4>\n  Benzidene is an organic reagent. In technical chemistry, it was historically used to precipitate <strong>sulfate ions</strong> from a solution to determine their weight, although its use has decreased in modern labs due to safety concerns.\n</div>"
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 3",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "Provide a chemical equation that demonstrates the process of homogeneous precipitation.",
+        "type": "subjective"
+      },
+      "Answer": {
+        "type": "string",
+        "content": "\\((NH_{2})_{2}CO + 3H_{2}O \\rightarrow CO_{2} + 2NH_{4}^{+} + 2OH^{-}\\)"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Homogeneous Precipitation</h4>\n  Instead of dumping a reagent into a beaker, we sometimes generate the reagent <em>inside</em> the solution slowly. A classic example is the hydrolysis of urea to produce hydroxide ions (\\(OH^{-}\\)):\n  <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; margin: 8px 0; text-align: center;'>\n    \\((NH_{2})_{2}CO + 3H_{2}O \\rightarrow CO_{2} + 2NH_{4}^{+} + 2OH^{-}\\)\n  </div>\n  These \\(OH^{-}\\) ions then react with metal ions to form very pure, large crystals.\n</div>"
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 4",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "Explain why the process of peptization is considered undesirable in gravimetric analysis.",
+        "type": "subjective"
+      },
+      "Answer": {
+        "type": "string",
+        "content": "It causes the precipitate to return to a colloidal state, allowing it to pass through the filter paper."
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Danger of Peptization</h4>\n  Imagine you've successfully formed a solid. <strong>Peptization</strong> is when that solid breaks back down into tiny, microscopic pieces called colloids. These pieces are so small they slip right through the filter paper. If they slip through, you lose your sample and your final weight will be lower than it should be.\n</div>"
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 5",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "Sketch and describe the basic components of a Gooch crucible.",
+        "type": "subjective"
+      },
+      "Answer": {
+        "type": "img",
+        "content": "https://ppqimg.s3.eu-north-1.amazonaws.com/PQ_IMG/CHM_235.1/2009_2010/n5a.jpg",
+        "alt": "Gooch crucible",
+        "Caption": "Gooch crucible",
+        "topic": [
+          "Atomic Theory and Chemical Equations"
+        ]
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Gooch Crucible</h4>\n  \n  A <strong>Gooch crucible</strong> is a lab cup used for filtering precipitates under suction. Its most important feature is its bottom, which is full of tiny holes (perforated). We place a filter mat (like glass fiber) over these holes to catch the solid while the liquid is pulled through.\n</div>"
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 6",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "What is the name of the specialized analytical balance used specifically in thermogravimetry?",
+        "type": "subjective"
+      },
+      "Answer": {
+        "type": "string",
+        "content": "Thermobalance"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Thermogravimetric Tools</h4>\n  In thermogravimetry, we measure how the weight of a sample changes as we heat it up. This requires a <strong>thermobalance</strong>—a precision balance that can weigh a sample while it is inside a hot furnace.\n</div>"
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 7",
+      "topic": [
+        "Chemical Bonding",
+        "Theory of Chemical Bonding"
+      ],
+      "Question": {
+        "content": "Sketch the chemical structure of 1,10-Phenanthroline.",
+        "type": "subjective"
+      },
+      "Answer": {
+        
+        
+        "type": "img",
+        "content": "https://ppqimg.s3.eu-north-1.amazonaws.com/PQ_IMG/CHM_235.1/2009_2010/n7a.png",
+        "alt": "1,10-Phenanthroline",
+        "Caption": "1,10-Phenanthroline.",
+        "topic": [
+        "Chemical Bonding",
+        "Theory of Chemical Bonding"
+      ]
+      
+        },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Indicator Structure</h4>\n  \n  <strong>1,10-Phenanthroline</strong> is a tricyclic (three-ring) organic compound. It has two nitrogen atoms positioned perfectly to 'grab' a metal ion, making it an excellent ligand for redox indicators like ferroin. <br/>Three fused benzene-like rings with two nitrogen atoms at positions 1 and 10.\n</div>"
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 8",
+      "topic": [
+        "Chemical Bonding",
+        "Theory of Chemical Bonding"
+      ],
+      "Question": {
+        "content": "Define the specific conditions under which chelation occurs.",
+        "type": "subjective"
+      },
+      "Answer": {
+        "type": "string",
+        "content": "When a polydentate (multidentate) ligand reacts with a central metal ion to form a ring structure."
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Chelation</h4>\n  \n  Chelation is a special type of bonding. It happens when a ligand has <strong>two or more</strong> atoms that can bind to the same metal. This forms a stable ring, making the bond much stronger than if the metal were just grabbed at one single spot.\n</div>"
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 9",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "What is the purpose of using a high concentration electrolyte in electrogravimetry?",
+        "type": "subjective"
+      },
+      "Answer": {
+        "type": "string",
+        "content": "It helps to increase the conductivity of the solution and reduce the resistance between electrodes."
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Electrolytes in Electrolysis</h4>\n  In electrogravimetry, we need electricity to flow smoothly through the liquid. Adding a <strong>high concentration electrolyte</strong> (like a salt or acid that doesn't react) acts like widening a highway—it allows ions to move more easily, which reduces the electrical resistance and makes the metal deposit more efficiently on the electrode.\n</div>"
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 10",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "Explain the primary function of a potentiostat in electrochemical analysis.",
+        "type": "subjective"
+      },
+      "Answer": {
+        "type": "string",
+        "content": "To maintain the potential of the working electrode at a constant level relative to a reference electrode."
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Potentiostat</h4>\n  \n  A <strong>potentiostat</strong> is like a 'cruise control' for electricity. In many experiments, if the voltage (potential) drifts, the wrong chemical might start reacting. The potentiostat automatically adjusts the current to keep the voltage at the exact level you set, ensuring only the analyte you want is being analyzed.\n</div>"
+      }
+    },
+    
+    {
+      "type": "heading",
+      "heading": "Section B"
+    },
+    
+    {
+      "type": "Question",
+      "name": "Question 1",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "From the molarities 0.5026, 0.5023, 0.5031, 0.5025, 0.5027, 0.5032, 0.5026, calculate within what range you are 95% certain that the true mean value falls (t₉₅% = 2.447).",
+        "type": "subjective"
+      },
+      "Answer": {
+        "type": "string",
+        "content": "Mean ± 0.0003 (approx. 0.5024 to 0.5030)"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Confidence Intervals</h4>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Calculate the Mean (average)</strong><br>\n    Sum of values / 7 = 3.519 / 7 = <strong>0.5027</strong>\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Calculate Standard Deviation (s)</strong><br>\n    This measures how 'spread out' the numbers are. For this set, \\( s \\approx 0.00031 \\).\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Apply the Formula</strong><br>\n    \\( \\text{Range} = \\text{Mean} \\pm \\frac{t \\times s}{\\sqrt{n}} \\)<br>\n    \\( \\text{Range} = 0.5027 \\pm \\frac{2.447 \\times 0.00031}{\\sqrt{7}} \\)\n  </div>\n  <div style='background: rgba(0,0,0,0.05); padding: 10px; border-radius: 5px; text-align: center;'>\n    The range is 0.5027 ± 0.00029\n  </div>\n</div>"
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 2",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "Using the measurements 22.23, 22.18, 22.09, 22.15, determine if 22.09 is a valid measurement using the Q-test (Q₉₀ = 0.64).",
+        "type": "subjective"
+      },
+      "Answer": {
+        "type": "string",
+        "content": "Yes, 22.09 is a valid measurement (Q_calc < Q_table)."
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Q-Test (Outlier Test)</h4>\n  <div style='margin-bottom: 12px;'>\n    The <strong>Q-test</strong> helps us decide if a 'weird' number is a mistake or just natural variation.\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Calculate the Gap</strong><br>\n    Gap = |Suspect value - Nearest value| = |22.09 - 22.15| = <strong>0.06</strong>\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Calculate the Range</strong><br>\n    Range = Max - Min = 22.23 - 22.09 = <strong>0.14</strong>\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Calculate Q</strong><br>\n    \\( Q_{calc} = \\text{Gap} / \\text{Range} = 0.06 / 0.14 = \\mathbf{0.43} \\)\n  </div>\n  <div style='margin-top: 15px;'>\n    Since 0.43 is <strong>less than</strong> the table value (0.64), the measurement is <strong>valid</strong> and should not be thrown away.\n  </div>\n</div>"
+      }
+    },
+    
+    {
+      "type": "heading",
+      "heading": "Section C"
+    },
+    {
+      "type": "Question",
+      "name": "Question 1",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "400ml/l pap (akamu) can be expressed as how many ppm and what % (v/v)?",
+        "type": "subjective"
+      },
+      "Answer": {
+        "type": "string",
+        "content": "400,000 ppm and 40% (v/v)"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Concentration Conversions</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Percentage (v/v):</strong><br>\n    Percentage is parts per hundred. Since there are 1000ml in 1L:<br>\n    \\( (400ml / 1000ml) \\times 100 = 40\\% \\).\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Parts Per Million (ppm):</strong><br>\n    ppm is parts per million. Since 1L is 1,000,000 microliters (or mg in water):<br>\n    \\( 400 \\times 1000 = 400,000\\,ppm \\).\n  </div>\n</div>"
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 2",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "Which of the following compounds would be used for preparing a primary standard solution?\n(1). Na2CO3\n(2). Na2CO3.H2O\n(3). CuSO4.5H2O\n(4). Ca(CH3COO.xH2O)\n(5). Na2B4O7.10H2O",
+        "type": "OBJ",
+        "options": [
+          "3 and 5",
+          "1, 2, 3 and 5",
+          "1, 2 and 4",
+          "2, 3 and 5",
+          "1 and 4"
+        ]
+      },
+      "Answer": {
+        "type": "string",
+        "content": "1, 2, 3 and 5"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Primary Standard Requirements</h4>\n  A <strong>primary standard</strong> must have a known, stable formula. Compounds 1, 2, 3, and 5 have fixed amounts of water (or no water), so we can calculate their exact mass. Compound 4 has an 'x' in the formula, meaning the water content is unknown, making it impossible to weigh out an exact number of moles.\n</div>"
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 3",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "Na2CO3.NaHCO3.2H2O is a better primary standard reagent than Na2CO3 because:",
+        "type": "OBJ",
+        "options": [
+          "It is not efflorescent",
+          "it is very stable",
+          "It is deliquescent",
+          "None of the above",
+          "All of the above"
+        ]
+      },
+      "Answer": {
+        "type": "string",
+        "content": "It is not efflorescent"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  Pure Sodium Carbonate (Na2CO3) can lose its water molecules to the dry air (efflorescence), which changes its weight. This complex salt (Trona) is much more stable in air and doesn't lose weight unexpectedly.\n</div>"
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 4",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "If a solution of 12.5ml of a monobasic acid was used to neutralize 25ml of a solution of potassium hydroxide containing 140g of alkali in 250ml of solution, what is the concentration of the acid? (K=39.10; O=16.00; H=1.008)",
+        "type": "OBJ",
+        "options": [
+          "0.20mol/cm³",
+          "1.50mol/cm³",
+          "0.68mol/cm³",
+          "2.44mol/cm³",
+          "0.42mol/cm³"
+        ]
+      },
+      "Answer": {
+        "type": "string",
+        "content": "0.020 mol/cm³"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Molarity and Neutralization</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Base Concentration</strong><br>\n    Molar mass of KOH = 56.108 g/mol.<br>\n    Moles in 140g = 140 / 56.108 = 2.5 mol.<br>\n    Molarity (base) = 2.5 mol / 0.250 L = 10 M.\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Titration Equation</strong><br>\n    \\( C_a V_a = C_b V_b \\)<br>\n    \\( C_a \\times 12.5 = 10 \\times 25 \\)<br>\n    \\( C_a = 20\\,mol/L \\).\n  </div>\n\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: cm³ conversion</strong><br>\n    \\( 20\\,mol / 1000\\,cm^3 = 0.020\\,mol/cm^3 \\).\n  </div>\n</div>"
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 5",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "The pH of a 0.025M solution of an ideal, monobasic strong acid at 298K is:",
+        "type": "subjective"
+      },
+      "Answer": {
+        "type": "string",
+        "content": "1.602"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  Since it is a strong acid, it dissociates 100%.<br>\n  \\( [H^{+}] = 0.025\\,M \\).<br>\n  \\( pH = -\\log(0.025) = 1.602 \\).\n</div>"
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 6",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "When phenolphthalein turns red at pH > 10, the structure changes from which form to which form?",
+        "type": "subjective"
+      },
+      "Answer": {
+        "type": "string",
+        "content": "From colorless lactone form to red quinonoid form."
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  \n  In acidic conditions, phenolphthalein exists in a colorless <strong>lactone</strong> structure. When the pH increases (becomes basic), it loses protons and rearranges into a <strong>quinonoid</strong> structure which appears red/pink to the human eye.\n</div>"
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 7",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "Volumetry can be used for the analysis of which three general components?",
+        "type": "subjective"
+      },
+      "Answer": {
+        "type": "string",
+        "content": "Titrant, titrand, and salt (or acid, base, and salt)"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  Volumetric analysis (titration) allows us to determine the concentration of a <strong>titrand</strong> (the unknown) by reacting it with a <strong>titrant</strong> (the known) until a stoichiometric <strong>salt</strong> or endpoint is reached.\n</div>"
+      }
+    },
+    {
+      "type": "Question",
+      "name": "Question 8",
+      "topic": [
+        "Atomic Theory and Chemical Equations"
+      ],
+      "Question": {
+        "content": "One condition for ideal volumetry is that there should be no side reactions (TRUE or FALSE).",
+        "type": "subjective"
+      },
+      "Answer": {
+        "type": "string",
+        "content": "TRUE"
+      },
+      "Explanation": {
+        "type": "string",
+        "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  If side reactions occur, some of the titrant will be 'wasted' reacting with things other than the analyte. This would lead to a wrong calculation of the analyte concentration.\n</div>"
+      }
+    }
+  ]
