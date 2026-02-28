@@ -1,0 +1,667 @@
+[{
+  "type": "pageInfo",
+  "kind": "OBJ",
+  "course_title": "Analystical Chemistry",
+  "code": "CHM 235.1",
+  "session": "2020/2021",
+  "topics": [""],
+  "time": "120"
+},
+{
+  "type": "Instruction",
+  "content": "Attempt All Questions"
+},
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Gravimetric Analysis",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "What is the name of the process of breaking down larger particles into smaller ones?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pepsinization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Particle Breakdown</h4>\n <p>The question asks for the term describing the process of reverting to smaller particles. While this can be a general concept, in specific analytical contexts, it refers to <strong>Pepsinization</strong>. This term is sometimes used to describe the breakdown of large particles, particularly in digestion or sample preparation.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Concept:</strong><br>\n In simpler terms, imagine a large rock being broken down into sand. Pepsinization is like the chemical or physical process that causes this breakdown, often making the material easier to work with or analyze.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Gravimetric Analysis",
+      "Sample Preparation"
+    ],
+    "Question": {
+      "content": "By what process is the volatile electrolyte removed from a sample?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ignition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Removing Volatile Components</h4>\n <p>A volatile electrolyte is a substance that can easily turn into a gas (vaporize). To remove it from a solid sample, we use a process called <strong>Ignition</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step-by-Step:</strong><br>\n 1. <strong>Heating:</strong> The sample is placed in a crucible and heated to a very high temperature in a furnace.<br>\n 2. <strong>Volatilization:</strong> The intense heat causes the volatile electrolyte to vaporize and escape into the air.<br>\n 3. <strong>Result:</strong> What's left in the crucible is the pure, non-volatile part of the sample, which can then be weighed.\n </div>\n <p>Think of it like boiling salty water. The water (volatile) evaporates when heated, leaving the salt (non-volatile) behind. Ignition is a much hotter, more intense version of this for solids.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Gravimetric Analysis",
+      "Techniques"
+    ],
+    "Question": {
+      "content": "What is the term for heating the crucible containing the sample to a specific temperature during gravimetric analysis?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ignition to constant weight"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Achieving a Stable Mass</h4>\n <p>In gravimetric analysis, we don't just heat the sample once. We use a specific process called <strong>Ignition to constant weight</strong> to make sure all reactions are complete and all volatile substances are gone.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Process:</strong><br>\n 1. <strong>Heat:</strong> The crucible with the sample is heated strongly.<br>\n 2. <strong>Cool & Weigh:</strong> It's allowed to cool in a desiccator (to prevent it from absorbing moisture from the air) and then weighed precisely.<br>\n 3. <strong>Repeat:</strong> The heating, cooling, and weighing steps are repeated.<br>\n 4. <strong>Constant Weight:</strong> This is continued until the weight of the crucible and sample stops changing between two consecutive weighings. This final, stable weight is the 'constant weight'.\n </div>\n <p>This ensures our final measurement is accurate and based on a pure, stable compound.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Gravimetric Analysis",
+      "Errors",
+      "Co-precipitation"
+    ],
+    "Question": {
+      "content": "What is formed when interfering ions become trapped within the growing precipitate?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Inclusion or Occlusion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Impurities in Crystals</h4>\n <p>When a precipitate (solid) forms, it grows by adding layers of atoms or ions. Sometimes, unwanted 'interfering ions' get trapped inside the growing crystal structure. This leads to two specific types of impurities:</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Inclusion:</strong><br>\n This happens when an interfering ion actually replaces a desired ion inside the crystal lattice (the regular, repeating 3D structure of the crystal). It's like putting a square peg in a round hole, but it gets stuck.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Occlusion:</strong><br>\n This is when a pocket of the solution containing interfering ions gets physically trapped inside the crystal as it grows. It's like trapping a drop of water inside a growing ice cube.\n </div>\n <p>Both <strong>inclusion and occlusion</strong> are forms of co-precipitation and lead to an impure final product.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Gravimetric Analysis",
+      "Errors"
+    ],
+    "Question": {
+      "content": "What is the common term for an impurity introduced during a precipitation gravimetric analysis?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Co-precipitate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Main Source of Error</h4>\n <p>In gravimetric analysis, we want our precipitate to be 100% pure. However, other substances that should remain dissolved often end up contaminating the solid precipitate. This unwanted contaminant is called a <strong>Co-precipitate</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Simple Analogy:</strong><br>\n Imagine you're trying to grow pure sugar crystals from a sugar solution. If the solution also has some dirt in it, some dirt particles will get stuck to or inside the sugar crystals as they form. That trapped dirt is like a co-precipitate.\n </div>\n <p>The process of forming these impurities is known as co-precipitation, and it's a major challenge in getting accurate results.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Gravimetric Analysis",
+      "Terminology"
+    ],
+    "Question": {
+      "content": "What is another name for a precipitating reagent?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Precipitant"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Simple Terminology</h4>\n <p>A precipitating reagent is simply the chemical you add to a solution to cause a solid (the precipitate) to form. Its other common name is the <strong>Precipitant</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Example:</strong><br>\n If you want to measure how much salt (sodium chloride) is in water, you might add silver nitrate solution. The silver nitrate is the <strong>precipitating reagent</strong> or <strong>precipitant</strong>. It reacts with the chloride to form solid silver chloride, which is the precipitate.\n </div>\n <p>So, reagent and precipitant mean the same thing in this context: the chemical that causes the precipitation reaction.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Gravimetric Analysis",
+      "Chemical Reactions"
+    ],
+    "Question": {
+      "content": "Write a general chemical equation showing a reaction for gravimetric analysis.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\[ \\text{Analyte (aq)} + \\text{Precipitating Reagent (aq)} \\rightarrow \\text{Precipitate (s)} + \\text{Filtrate (aq)} \\]"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Core Reaction</h4>\n <p>Every gravimetric analysis is based on a simple chemical reaction where the substance we want to measure (the analyte) is converted into a solid that we can weigh. Here's the general equation broken down:</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>\\[ \\text{Analyte (aq)} \\]</strong><br>\n This is the substance whose mass we want to find. It's dissolved in a solution (aqueous).\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>\\[ + \\text{Precipitating Reagent (aq)} \\]</strong><br>\n We add another dissolved chemical that will react specifically with our analyte.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>\\[ \\rightarrow \\text{Precipitate (s)} \\]</strong><br>\n They react to form an insoluble solid. The '(s)' stands for solid. This is the product we will filter out and weigh.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>\\[ + \\text{Filtrate (aq)} \\]</strong><br>\n The remaining liquid, which contains the other products and any unreacted chemicals, is called the filtrate. It is washed away and discarded.\n </div>\n <p>The entire goal is to create a pure, solid precipitate whose mass we can use to calculate the original mass of the analyte.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Gravimetric Analysis",
+      "Procedure"
+    ],
+    "Question": {
+      "content": "What is the name of the fourth step in a gravimetric method?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Filtration"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The 4th Step: Separation</h4>\n <p>The typical steps in gravimetric analysis are:</p>\n <ol style='margin-bottom: 12px;'>\n <li><strong>Preparation of the solution:</strong> Dissolving the sample.</li>\n <li><strong>Precipitation:</strong> Adding the reagent to form the solid.</li>\n <li><strong>Digestion:</strong> Allowing the precipitate to mature and become purer/filterable.</li>\n <li><strong>Filtration:</strong> Physically separating the solid precipitate from the liquid.</li>\n </ol>\n <p>So, the fourth step is <strong>Filtration</strong>. This is where we pour the mixture through filter paper. The solid precipitate is trapped on the paper, and the liquid (filtrate) passes through.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Gravimetric Analysis",
+      "Precipitation"
+    ],
+    "Question": {
+      "content": "Mention two mechanisms of precipitate formation.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nucleation and Particle Growth"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>How Precipitates Form</h4>\n <p>When a solid forms from a solution, it happens in two main stages or mechanisms:</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Nucleation:</strong><br>\n This is the first step. A few ions or molecules in the solution come together to form tiny, stable clusters called 'nuclei'. Think of it as the 'seed' from which a crystal will grow.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Particle Growth:</strong><br>\n Once nuclei are formed, more ions or molecules from the solution deposit onto their surfaces. This causes the nuclei to grow into larger, visible particles. It's like adding more and more bricks to the foundation to build a house.\n </div>\n <p>The balance between these two mechanisms determines the final size and purity of the precipitate.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Gravimetric Analysis",
+      "Precipitation",
+      "Von Weimarn Theory"
+    ],
+    "Question": {
+      "content": "What is the relationship between relative supersaturation and colloidal particle formation?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "High relative supersaturation favors the formation of colloidal particles."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Von Weimarn Relationship</h4>\n <p>The size of particles in a precipitate is governed by the relative supersaturation (RSS). The relationship is:</p>\n <div style='margin-bottom: 12px; text-align: center;'>\n <strong style='color: var(--strongColor);'>\\[ \\text{Particle Size} \\propto \\frac{1}{\\text{Relative Supersaturation}} \\]</strong>\n </div>\n <p>This means:</p>\n <ul>\n <li><strong>High Relative Supersaturation:</strong> When RSS is high, many nuclei form very quickly. Because so many nuclei are competing for the available ions, they cannot grow very large. This results in the formation of many tiny particles, which are often colloidal in size.</li>\n <li><strong>Low Relative Supersaturation:</strong> When RSS is low, fewer nuclei form. The existing nuclei then have plenty of time and material to grow into large, well-formed, easily filterable crystals.</li>\n </ul>\n <p>So, a high relative supersaturation directly favors the formation of <strong>colloidal particles</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Gravimetric Analysis",
+      "Von Weimarn Theory"
+    ],
+    "Question": {
+      "content": "Write the equation for Relative Supersaturation.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\[ \\text{Relative Supersaturation} = \\frac{Q - S}{S} \\]"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The RSS Formula</h4>\n <p>The Relative Supersaturation (RSS) is a key concept that determines the properties of a precipitate. It is defined by the following equation:</p>\n <div style='margin-bottom: 12px; text-align: center;'>\n <strong style='color: var(--strongColor); font-size: 1.2em;'>\\[ \\text{RSS} = \\frac{Q - S}{S} \\]</strong>\n </div>\n <p>Let's break down what the symbols mean:</p>\n <ul>\n <li><strong>\\( Q \\):</strong> This is the <strong>concentration of the mixed reactants</strong> at the exact moment they are combined, before any precipitation has occurred. It represents the total amount of material available.</li>\n <li><strong>\\( S \\):</strong> This is the <strong>equilibrium solubility</strong> of the precipitate. It's the maximum amount of the substance that can remain dissolved in the solution under the given conditions.</li>\n </ul>\n <p>The equation tells us how much the solution is 'supersaturated' relative to its normal solubility. A high value means the solution is very unstable and will precipitate rapidly, forming many small particles.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Colloidal Chemistry",
+      "Precipitation"
+    ],
+    "Question": {
+      "content": "By what methods can coagulation be hastened?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Heating, stirring, and adding an electrolyte"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Clumping Colloids</h4>\n <p>Colloidal particles are so tiny that they don't settle easily. They need to be coaxed into clumping together, a process called coagulation or agglomeration. This can be sped up (hastened) in three main ways:</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Heating:</strong><br>\n Increasing the temperature gives the particles more energy, causing them to move faster and collide more frequently and with greater force, which helps them stick together.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Stirring:</strong><br>\n Mechanical agitation (stirring or shaking) also increases the number and force of collisions between particles, promoting coagulation.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>3. Adding an Electrolyte:</strong><br>\n Colloidal particles often stay separate because they have the same electrical charge and repel each other. Adding an electrolyte (a salt solution) neutralizes this surface charge, removing the repulsive force and allowing the particles to clump together when they collide.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Gravimetric Analysis",
+      "Co-precipitation"
+    ],
+    "Question": {
+      "content": "What is the phenomenon called where soluble compounds are removed from solution during precipitate formation?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Co-precipitation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>A Common Source of Error</h4>\n <p>The phenomenon where soluble compounds are carried out of the solution and contaminate the desired precipitate is called <strong>Co-precipitation</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What Happens:</strong><br>\n Even though these contaminants are normally soluble and should stay dissolved, they become trapped or adsorbed onto the surface of the precipitate as it forms. This can happen through several mechanisms like surface adsorption, inclusion, or occlusion.\n </div>\n <p>Because of co-precipitation, the final weighed solid is not pure, which introduces a positive error into the analysis (the mass is higher than it should be).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Gravimetric Analysis",
+      "Purification"
+    ],
+    "Question": {
+      "content": "What is the process called where the precipitate is re-dissolved and then precipitated out again from a cleaner solution?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reprecipitation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>A Powerful Purification Technique</h4>\n <p>When a precipitate is heavily contaminated by co-precipitation, we can use a technique called <strong>Reprecipitation</strong> to purify it.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Steps:</strong><br>\n 1. <strong>Isolate:</strong> First, the impure precipitate is collected by filtration.<br>\n 2. <strong>Dissolve:</strong> It is then washed and dissolved again in a suitable solvent, creating a solution.<br>\n 3. <strong>Separate:</strong> The original impurities are now back in solution. If there are any insoluble impurities from the first step, they can be filtered out now.<br>\n 4. <strong>Re-precipitate:</strong> The precipitating reagent is added again to the cleaner solution, forming a new, much purer precipitate.<br>\n 5. <strong>Collect:</strong> This new, pure precipitate is then filtered, washed, and weighed.\n </div>\n <p>This process essentially gives the analyte a 'second chance' to form a pure solid, leaving the contaminants behind in the first solution.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Gravimetric Analysis",
+      "Techniques"
+    ],
+    "Question": {
+      "content": "In gravimetric analysis, what is the purpose of using high-temperature drying?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To remove water of hydration or other volatile materials and convert the precipitate to a stable weighing form."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Drying vs. Ignition</h4>\n <p>In gravimetric analysis, we don't just dry to remove surface moisture. High-temperature drying (often called ignition) is used for a more specific chemical purpose.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Main Goals:</strong><br>\n <ul>\n <li><strong>Remove Water of Hydration:</strong> Many precipitates form as hydrates, meaning water molecules are trapped inside their crystal structure (e.g., \\( \\text{CaC}_2\\text{O}_4 \\cdot \\text{H}_2\\text{O} \\)). High heat drives off this chemically bound water.</li>\n <li><strong>Convert to a Stable Form:</strong> The initial precipitate might not have a constant, well-defined composition. High heat decomposes it into a new compound with a known, stable formula (e.g., converting \\( \\text{CaC}_2\\text{O}_4 \\cdot \\text{H}_2\\text{O} \\) to \\( \\text{CaO} \\) or \\( \\text{CaCO}_3 \\)). This final form is what we weigh.</li>\n <li><strong>Remove Volatiles:</strong> It also ensures any other volatile impurities are driven off.</li>\n </ul>\n </div>\n <p>The goal is to get the precipitate into a pure, stable 'weighing form' with a known chemical composition so the mass measurement is meaningful.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Gravimetric Analysis",
+      "Errors",
+      "Co-precipitation"
+    ],
+    "Question": {
+      "content": "How can inclusion be removed from a precipitate?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Through digestion or reprecipitation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fixing Crystal Lattice Errors</h4>\n <p>Inclusion is a type of co-precipitation where an impurity ion actually sits inside the crystal lattice, replacing a desired ion. This is a structural defect and is hard to fix, but it can be minimized by:</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Digestion:</strong><br>\n Also known as Ostwald ripening. When the precipitate is left in contact with the mother liquor (the hot solution it was formed in) for some time, a process of dissolution and reprecipitation occurs. Smaller, imperfect crystals (which are more likely to have inclusions) dissolve, and their material is deposited onto larger, more perfect crystals. This can help 'heal' some inclusion defects.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Reprecipitation:</strong><br>\n This is the most effective method. The entire impure precipitate is dissolved, breaking down the flawed crystal structure. The ions from the analyte and the impurities are all free in solution again. When the precipitate is formed a second time under better-controlled conditions, it has a chance to form a purer crystal lattice, leaving the impurity ions behind in the solution.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Gravimetric Analysis",
+      "Errors",
+      "Co-precipitation"
+    ],
+    "Question": {
+      "content": "By what process can occlusion be minimized?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Digestion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cleaning Out Trapped Pockets</h4>\n <p>Occlusion happens when pockets of the solution containing impurities are physically trapped inside a growing crystal. The best way to minimize this is through a process called <strong>Digestion</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>How Digestion Helps:</strong><br>\n During digestion, the precipitate is left in the hot solution (the mother liquor) for a period of time, often with occasional stirring. This process, also known as Ostwald ripening, causes the crystal structure to reorganize.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Mechanism:</strong><br>\n Smaller crystals, which have a high surface area and are more likely to contain occluded impurities, slowly dissolve. Larger crystals grow at their expense. As the larger crystals grow, the occluded impurities trapped inside them have a chance to be released back into the solution. This 'healing' process results in larger, purer, and more perfect crystals with fewer occluded pockets.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Acids and Bases",
+      "Definitions",
+      "Arrhenius Theory"
+    ],
+    "Question": {
+      "content": "CN⁻ is an Arrhenius base. True or False?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding the Arrhenius Definition</h4>\n <p>The Arrhenius definition is very specific. It states that:</p>\n <ul>\n <li>An <strong>acid</strong> is a substance that increases the concentration of \\( \\text{H}^+ \\) ions (protons) in water.</li>\n <li>A <strong>base</strong> is a substance that increases the concentration of \\( \\text{OH}^- \\) ions (hydroxide ions) in water.</li>\n </ul>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Applying it to CN⁻:</strong><br>\n The cyanide ion, \\( \\text{CN}^- \\), does not directly release \\( \\text{OH}^- \\) ions when dissolved in water. Instead, it reacts with water in a process called hydrolysis: \\( \\text{CN}^- + \\text{H}_2\\text{O} \\rightleftharpoons \\text{HCN} + \\text{OH}^- \\). This reaction *produces* \\( \\text{OH}^- \\) ions, making the solution basic.\n </div>\n <p>However, because it does not itself *contain* or *directly release* hydroxide ions, it does not fit the strict Arrhenius definition. It is more accurately described as a Brønsted-Lowry base (a proton acceptor). Therefore, the statement is <strong>False</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Acids and Bases",
+      "Definitions",
+      "Bronsted-Lowry Theory"
+    ],
+    "Question": {
+      "content": "Ca(OH)₂ is a Bronsted-Lowry base. True or False?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Brønsted-Lowry Definition</h4>\n <p>The Brønsted-Lowry theory is broader than the Arrhenius theory. It defines a base as a <strong>proton (\\( \\text{H}^+ \\)) acceptor</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Analyzing Ca(OH)₂:</strong><br>\n Calcium hydroxide, \\( \\text{Ca(OH)}_2 \\), dissociates completely in water to give calcium ions and hydroxide ions: \\( \\text{Ca(OH)}_2 \\rightarrow \\text{Ca}^{2+} + 2\\text{OH}^- \\).\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Key Question:</strong><br>\n Can the \\( \\text{OH}^- \\) ion accept a proton? Yes, it certainly can. The reaction is: \\( \\text{OH}^- + \\text{H}^+ \\rightarrow \\text{H}_2\\text{O} \\).\n </div>\n <p>Because the \\( \\text{OH}^- \\) ions from \\( \\text{Ca(OH)}_2 \\) can accept protons, \\( \\text{Ca(OH)}_2 \\) fits the Brønsted-Lowry definition of a base perfectly. The statement is <strong>True</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Acids and Bases",
+      "Definitions",
+      "Amphoteric"
+    ],
+    "Question": {
+      "content": "What is a substance called that can act as an acid in some reactions and as a base in others?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amphoteric"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Dual Nature of Some Substances</h4>\n <p>A substance that can behave both as an acid and as a base is called <strong>Amphoteric</strong> (or an amphiprotic substance, if the focus is on donating/accepting protons).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Classic Example: Water</strong><br>\n Water (\\( \\text{H}_2\\text{O} \\)) is the most common example.\n <ul>\n <li>It acts as a <strong>base</strong> when it reacts with an acid, like hydrochloric acid: \\( \\text{HCl} + \\text{H}_2\\text{O} \\rightarrow \\text{H}_3\\text{O}^+ + \\text{Cl}^- \\). Here, water accepts a proton (\\( \\text{H}^+ \\)) to become hydronium (\\( \\text{H}_3\\text{O}^+ \\)).</li>\n <li>It acts as an <strong>acid</strong> when it reacts with a base, like ammonia: \\( \\text{NH}_3 + \\text{H}_2\\text{O} \\rightleftharpoons \\text{NH}_4^+ + \\text{OH}^- \\). Here, water donates a proton to become hydroxide (\\( \\text{OH}^- \\)).</li>\n </ul>\n </div>\n <p>Many other substances, like amino acids and certain metal hydroxides (e.g., \\( \\text{Al(OH)}_3 \\)), are also amphoteric.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Acid-Base Titration",
+      "Indicators"
+    ],
+    "Question": {
+      "content": "List any acid-base indicator that is suitable for the titration of a weak acid and a weak base.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None (or no suitable indicator exists)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Challenge of Weak Acid-Weak Base Titrations</h4>\n <p>In a titration, we use an indicator to show when the reaction is complete (the equivalence point). The indicator must change color at the pH of the equivalence point.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Problem:</strong><br>\n For a weak acid-weak base titration, the pH change near the equivalence point is very small and gradual, not sharp. There is no steep vertical region on the pH curve.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Result:</strong><br>\n Because the pH change is so gradual, there is no single indicator that will change color sharply at the exact equivalence point. Any color change would occur over a range of added titrant volume, making it impossible to determine the endpoint accurately.\n </div>\n <p>Therefore, the answer is that <strong>no suitable indicator exists</strong> for this type of titration. Such titrations are generally avoided in analytical chemistry.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Acids and Bases",
+      "pH Calculation",
+      "Ionic Equilibrium"
+    ],
+    "Question": {
+      "content": "What are the molar concentrations of [H₃O⁺] and [OH⁻] ions, respectively, in a 0.002 M Ca(OH)₂ solution?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\[ [OH^-] = 0.004 \\, M \\] and \\[ [H_3O^+] = 2.5 \\times 10^{-12} \\, M \\]"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Step-by-Step Calculation</h4>\n <p>Calcium hydroxide is a strong base, meaning it dissociates completely in water.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 1: Dissociation</strong><br>\n The dissociation equation is:\n \\( \\text{Ca(OH)}_2 (s) \\rightarrow \\text{Ca}^{2+} (aq) + 2\\text{OH}^- (aq) \\)\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 2: Find [OH⁻]</strong><br>\n From the equation, 1 mole of Ca(OH)₂ produces 2 moles of OH⁻ ions. Therefore, the concentration of OH⁻ is twice the concentration of Ca(OH)₂.\n \\( [OH^-] = 2 \\times 0.002 \\, M = 0.004 \\, M \\)\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 3: Find [H₃O⁺] using the ion product of water</strong><br>\n At 25°C, the ion product of water, \\( K_w \\), is \\( 1.0 \\times 10^{-14} \\).\n \\( K_w = [H_3O^+][OH^-] = 1.0 \\times 10^{-14} \\)\n So, \\( [H_3O^+] = \\frac{K_w}{[OH^-]} = \\frac{1.0 \\times 10^{-14}}{0.004} \\)\n \\( [H_3O^+] = \\frac{1.0 \\times 10^{-14}}{4 \\times 10^{-3}} = 2.5 \\times 10^{-12} \\, M \\)\n </div>\n <p><strong>Final Answer:</strong> \\( [OH^-] = 0.004 \\, M \\) and \\( [H_3O^+] = 2.5 \\times 10^{-12} \\, M \\).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Acid-Base Titration",
+      "Indicators",
+      "Phenolphthalein"
+    ],
+    "Question": {
+      "content": "What is the effect of excess acid on the alkaline color of Phenolphthalein?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It turns the solution from pink to colorless."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>How Phenolphthalein Works</h4>\n <p>Phenolphthalein is a pH indicator that changes color based on the acidity or alkalinity of a solution.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>In Alkaline (Basic) Conditions:</strong><br>\n In the presence of a base (like NaOH), phenolphthalein loses hydrogen ions and its structure changes. This new structure absorbs light differently, giving the solution a characteristic <strong style='color: #f08080;'>pink</strong> or magenta color.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>In Acidic Conditions:</strong><br>\n When an acid is added, it donates protons (H⁺) back to the phenolphthalein molecule. This reverses the structural change, converting it back to its original, colorless form.\n </div>\n <p>So, if you have a pink solution due to phenolphthalein in a base, adding an excess of acid will provide enough H⁺ ions to convert all the indicator molecules back to their colorless form. The solution will therefore turn from <strong>pink to colorless</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Analytical Chemistry",
+      "Statistics",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "What is the term for the closeness of a measured value to the true or real value?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Accuracy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Accuracy vs. Precision</h4>\n <p>In analytical chemistry and statistics, it's important to distinguish between accuracy and precision.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Accuracy:</strong><br>\n This is the term that describes how close a measured value is to the <strong>true or accepted value</strong>. A measurement is accurate if it's right on target. For example, if the true weight of an object is 10.00 g, and you measure it as 10.01 g, your measurement is very accurate.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Precision:</strong><br>\n Precision, on the other hand, refers to the closeness of a set of measurements to each other. You can be precise (all your measurements are very similar) but not accurate (they are all far from the true value).\n </div>\n <p>Think of aiming at a dartboard: <strong>Accuracy</strong> is hitting the bullseye. <strong>Precision</strong> is having all your darts land close together, even if they are in a corner of the board.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Analytical Chemistry",
+      "Statistics",
+      "Q-test"
+    ],
+    "Question": {
+      "content": "The Q-test is used to determine whether the mean values measured by two different analytical methods are statistically different from one another. True or False?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Purpose of the Q-test</h4>\n <p>The statement confuses the Q-test with another statistical test. Let's clarify:</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Q-test (Dixon's Q-test):</strong><br>\n This test is used to identify and reject <strong>outliers</strong>. An outlier is a single data point within a small set of results that seems suspiciously different from the others. The Q-test helps you decide, with a certain level of confidence, whether to keep that data point or discard it.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>t-test:</strong><br>\n The test used to compare the means of two different sets of data (e.g., results from two different methods) to see if they are statistically different is the <strong>t-test</strong>.\n </div>\n <p>Therefore, the statement is <strong>False</strong>. The Q-test is for outliers, not for comparing means.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Titration",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "What type of titration depends on a chemical reaction between the analyte and a standard reagent?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Direct titration"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Most Common Titration Method</h4>\n <p>When we think of a standard titration, we usually imagine a <strong>direct titration</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Definition:</strong><br>\n In a direct titration, a solution of a standard reagent (the titrant) of known concentration is added from a burette directly to a solution of the analyte (the substance being analyzed) until the reaction between them is complete. The completion point is usually signaled by an indicator.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Example:</strong><br>\n Titrating a hydrochloric acid (HCl) solution of unknown concentration with a standard sodium hydroxide (NaOH) solution. The reaction is \\( \\text{HCl} + \\text{NaOH} \\rightarrow \\text{NaCl} + \\text{H}_2\\text{O} \\).\n </div>\n <p>This method depends entirely on the chemical reaction between the analyte and the standard reagent.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Redox Reactions",
+      "Oxidizing and Reducing Agents"
+    ],
+    "Question": {
+      "content": "In the backward reaction, \\( 2Fe^{3+} + Sn^{2+} \\rightarrow 2Fe^{2+} + Sn^{4+} \\), which species is the reducing agent?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sn²⁺"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying the Reducing Agent</h4>\n <p>A reducing agent is the species that causes reduction by getting oxidized itself. To find it, we look for the species that loses electrons (its oxidation state increases).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 1: Assign oxidation states.</strong><br>\n <ul>\n <li>Fe in \\( \\text{Fe}^{3+} \\): +3. Fe in \\( \\text{Fe}^{2+} \\): +2.</li>\n <li>Sn in \\( \\text{Sn}^{2+} \\): +2. Sn in \\( \\text{Sn}^{4+} \\): +4.</li>\n </ul>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 2: Identify the species that is oxidized.</strong><br>\n Oxidation is an increase in oxidation state.\n <ul>\n <li>Fe goes from +3 to +2. This is a <strong>decrease</strong>, so Fe³⁺ is reduced.</li>\n <li>Sn goes from +2 to +4. This is an <strong>increase</strong>, so Sn²⁺ is oxidized.</li>\n </ul>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 3: Identify the reducing agent.</strong><br>\n The species that is oxidized is the reducing agent. Since Sn²⁺ is oxidized, it is the <strong>reducing agent</strong>. It donates electrons to reduce Fe³⁺ to Fe²⁺.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "Redox Reactions",
+      "Oxidizing and Reducing Agents"
+    ],
+    "Question": {
+      "content": "In the backward reaction, \\( 2Fe^{3+} + Sn^{2+} \\rightarrow 2Fe^{2+} + Sn^{4+} \\), which species is the oxidizing agent?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fe³⁺"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying the Oxidizing Agent</h4>\n <p>An oxidizing agent is the species that causes oxidation by getting reduced itself. To find it, we look for the species that gains electrons (its oxidation state decreases).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 1: Assign oxidation states.</strong><br>\n (Same as before)\n <ul>\n <li>Fe in \\( \\text{Fe}^{3+} \\): +3. Fe in \\( \\text{Fe}^{2+} \\): +2.</li>\n <li>Sn in \\( \\text{Sn}^{2+} \\): +2. Sn in \\( \\text{Sn}^{4+} \\): +4.</li>\n </ul>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 2: Identify the species that is reduced.</strong><br>\n Reduction is a decrease in oxidation state.\n <ul>\n <li>Fe goes from +3 to +2. This is a <strong>decrease</strong>, so Fe³⁺ is reduced.</li>\n <li>Sn goes from +2 to +4. This is an <strong>increase</strong>, so Sn²⁺ is oxidized.</li>\n </ul>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 3: Identify the oxidizing agent.</strong><br>\n The species that is reduced is the oxidizing agent. Since Fe³⁺ is reduced, it is the <strong>oxidizing agent</strong>. It accepts electrons from Sn²⁺, thereby oxidizing it to Sn⁴⁺.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Analytical Chemistry",
+      "Errors",
+      "Statistics"
+    ],
+    "Question": {
+      "content": "Using a mathematical equation, differentiate between absolute error and relative error.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Absolute Error: \\( E = x_i - x_t \\) ; Relative Error: \\( RE = \\frac{x_i - x_t}{x_t} \\) (often expressed as a percentage)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Measurement Errors</h4>\n <p>Error in a measurement is the difference between what you measured and the true value. We express this error in two main ways:</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Absolute Error</strong><br>\n This tells you the magnitude of the error in the same units as your measurement.\n \\[ E = x_i - x_t \\]\n Where:\n <ul>\n <li>\\( E \\) = Absolute Error</li>\n <li>\\( x_i \\) = The individual measured value</li>\n <li>\\( x_t \\) = The true or accepted value</li>\n </ul>\n For example, if you measure a length as 5.1 cm, but the true length is 5.0 cm, your absolute error is +0.1 cm.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Relative Error</strong><br>\n This tells you how large the error is relative to the size of the thing you're measuring. It is dimensionless and often expressed as a percentage.\n \\[ RE = \\frac{x_i - x_t}{x_t} \\]\n or as a percentage: \\[ RE\\% = \\frac{x_i - x_t}{x_t} \\times 100\\% \\]\n Using the same example, the relative error is \\( \\frac{0.1 \\text{ cm}}{5.0 \\text{ cm}} = 0.02 \\), or 2%. An error of 0.1 cm is much more significant when measuring something 1 cm long (10% error) than when measuring something 1 meter long (0.1% error). Relative error captures this significance, while absolute error does not.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Redox Reactions",
+      "Oxidizing and Reducing Agents"
+    ],
+    "Question": {
+      "content": "In the forward reaction of the equation \\( \\text{Fe}^{2+} + \\text{Ce}^{4+} \\rightleftharpoons \\text{Fe}^{3+} + \\text{Ce}^{3+} \\), which species is the reducing agent?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fe²⁺"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Finding the Reducing Agent</h4>\n <p>Remember: A reducing agent is itself <strong>oxidized</strong> (loses electrons) in order to reduce another species.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 1: Assign oxidation states.</strong><br>\n <ul>\n <li>Fe in \\( \\text{Fe}^{2+} \\): +2. Fe in \\( \\text{Fe}^{3+} \\): +3.</li>\n <li>Ce in \\( \\text{Ce}^{4+} \\): +4. Ce in \\( \\text{Ce}^{3+} \\): +3.</li>\n </ul>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 2: Identify the species that is oxidized in the forward direction.</strong><br>\n Oxidation is an increase in oxidation state.\n <ul>\n <li>Fe goes from +2 (in Fe²⁺) to +3 (in Fe³⁺). This is an <strong>increase</strong> of 1, so Fe²⁺ is <strong>oxidized</strong>.</li>\n <li>Ce goes from +4 (in Ce⁴⁺) to +3 (in Ce³⁺). This is a <strong>decrease</strong> of 1, so Ce⁴⁺ is reduced.</li>\n </ul>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 3: Identify the reducing agent.</strong><br>\n The species that is oxidized (loses electrons) is the reducing agent. Since Fe²⁺ is oxidized, it is the <strong>reducing agent</strong>. It donates an electron to Ce⁴⁺, causing Ce⁴⁺ to be reduced to Ce³⁺.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Redox Reactions",
+      "Oxidizing and Reducing Agents"
+    ],
+    "Question": {
+      "content": "In the forward reaction of the equation \\( \\text{Fe}^{2+} + \\text{Ce}^{4+} \\rightleftharpoons \\text{Fe}^{3+} + \\text{Ce}^{3+} \\), which species is the oxidizing agent?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ce⁴⁺"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Finding the Oxidizing Agent</h4>\n <p>Remember: An oxidizing agent is itself <strong>reduced</strong> (gains electrons) in order to oxidize another species.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 1: Assign oxidation states.</strong><br>\n <ul>\n <li>Fe in \\( \\text{Fe}^{2+} \\): +2. Fe in \\( \\text{Fe}^{3+} \\): +3.</li>\n <li>Ce in \\( \\text{Ce}^{4+} \\): +4. Ce in \\( \\text{Ce}^{3+} \\): +3.</li>\n </ul>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 2: Identify the species that is reduced in the forward direction.</strong><br>\n Reduction is a decrease in oxidation state.\n <ul>\n <li>Fe goes from +2 (in Fe²⁺) to +3 (in Fe³⁺). This is an <strong>increase</strong>, so Fe²⁺ is oxidized.</li>\n <li>Ce goes from +4 (in Ce⁴⁺) to +3 (in Ce³⁺). This is a <strong>decrease</strong> of 1, so Ce⁴⁺ is <strong>reduced</strong>.</li>\n </ul>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 3: Identify the oxidizing agent.</strong><br>\n The species that is reduced (gains electrons) is the oxidizing agent. Since Ce⁴⁺ is reduced, it is the <strong>oxidizing agent</strong>. It accepts an electron from Fe²⁺, causing Fe²⁺ to be oxidized to Fe³⁺.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Gravimetric Analysis",
+      "Stoichiometry",
+      "Molarity Calculation"
+    ],
+    "Question": {
+      "content": "A 10.00 mL solution containing Cl⁻ was treated with excess AgNO₃ to precipitate 0.4368 g of AgCl. What was the molarity of Cl⁻ in the unknown?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.3048 M"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Step-by-Step Gravimetric Calculation</h4>\n <p>This is a classic gravimetric analysis problem. We can find the molarity of Cl⁻ by working backwards from the mass of the precipitate, AgCl.</p>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 1: Write the balanced precipitation reaction.</strong><br>\n \\[ \\text{Ag}^+ (aq) + \\text{Cl}^- (aq) \\rightarrow \\text{AgCl} (s) \\]\n This shows a 1:1 mole ratio between Cl⁻ and AgCl.\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 2: Calculate the moles of AgCl precipitate formed.</strong><br>\n First, find the molar mass of AgCl:\n <ul>\n <li>Ag = 107.87 g/mol</li>\n <li>Cl = 35.45 g/mol</li>\n <li>Molar mass of AgCl = 107.87 + 35.45 = 143.32 g/mol</li>\n </ul>\n \\[ \\text{Moles of AgCl} = \\frac{\\text{mass of AgCl}}{\\text{molar mass of AgCl}} \\]\n \\[ \\text{Moles of AgCl} = \\frac{0.4368 \\text{ g}}{143.32 \\text{ g/mol}} \\]\n \\[ \\text{Moles of AgCl} = 0.003048 \\text{ mol} \\]\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 3: Determine the moles of Cl⁻ in the original solution.</strong><br>\n From the 1:1 stoichiometry of the reaction:\n \\[ \\text{Moles of Cl}^- = \\text{Moles of AgCl} = 0.003048 \\text{ mol} \\]\n </div>\n \n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step 4: Calculate the molarity (concentration) of Cl⁻.</strong><br>\n Molarity (M) is moles of solute per liter of solution. The volume given is 10.00 mL, which we must convert to liters:\n \\[ 10.00 \\text{ mL} = 0.01000 \\text{ L} \\]\n \\[ \\text{Molarity of Cl}^- = \\frac{\\text{moles of Cl}^-}{\\text{volume of solution in L}} \\]\n \\[ \\text{Molarity of Cl}^- = \\frac{0.003048 \\text{ mol}}{0.01000 \\text{ L}} \\]\n \\[ \\text{Molarity of Cl}^- = 0.3048 \\text{ M} \\]\n </div>\n \n <p>Therefore, the concentration of Cl⁻ in the original 10.00 mL solution was <strong>0.3048 M</strong>.</p>\n</div>"
+    }
+  }
+]
