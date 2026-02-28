@@ -1,0 +1,430 @@
+[{
+  "type": "pageInfo",
+  "kind": "OBJ",
+  "course_title": "Analystical Chemistry",
+  "code": "CHM 235.1",
+  "session": "2020/2021",
+  "topics": ["Analytical Chemistry", "Gravimetric Analysis", "Precipitation", "Crystallization", "Precipitation Techniques", "Chemistry", "Buffer Solutions", "pH Control", "Acid-Base Equilibrium", "Ka Calculation", "Stoichiometry", "Reaction Calculations", "pH and pOH", "Henderson-Hasselbalch Equation", "Percent Composition", "Mole Concept", "Formula Weight", "Mass Percent", "Millimoles", "Significant Figures", "Error Analysis", "Statistics"],
+  "time": "120"
+},
+{
+  "type": "Instruction",
+  "content": "Attempt All Questions"
+},
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Analytical Chemistry",
+      "Gravimetric Analysis",
+      "Precipitation"
+    ],
+    "Question": {
+      "content": "The common impurity in a precipitation gravimetric analysis is called?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Coprecipitated impurity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Impurities in Gravimetric Analysis</h4>\n  \n  <p>The common impurity in precipitation gravimetric analysis is called <strong>coprecipitated impurity</strong> resulting from the process of <strong>coprecipitation</strong>.</p>\n  \n  <div style='background: var(--preset-bg-color); padding: 20px; border-radius: 8px; margin: 15px 0;'>\n    <strong style='color: var(--strongColor); font-size: 1.1em;'>🧪 Coprecipitation</strong>\n    <p>Coprecipitation is the process where normally soluble compounds are carried down along with the desired precipitate, contaminating it. It occurs when a precipitate forms in the presence of other ions that should remain in solution.</p>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Types of Coprecipitation:</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li><strong>Surface adsorption:</strong> Impurities adsorb on the surface of the precipitate (common with colloidal precipitates)</li>\n      <li><strong>Occlusion:</strong> Impurities are trapped inside the growing crystal</li>\n      <li><strong>Mixed crystal formation:</strong> Impurity ions substitute for analyte ions in the crystal lattice</li>\n      <li><strong>Mechanical entrapment:</strong> Impurities are physically trapped during crystal growth</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> The common impurity is called a <strong>coprecipitated impurity</strong>.\n  </div>\n  \n  <p style='margin-top: 15px;'>Coprecipitation is minimized by techniques like digestion, reprecipitation, and proper washing.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Analytical Chemistry",
+      "Precipitation",
+      "Crystallization"
+    ],
+    "Question": {
+      "content": "Mention two mechanisms of precipitate formation?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nucleation and particle growth"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Mechanisms of Precipitate Formation</h4>\n  \n  <p>Precipitate formation occurs through two main mechanisms:</p>\n  \n  <div style='display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 15px 0;'>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>1️⃣ Nucleation</strong>\n      <p>The initial stage where a few ions, atoms, or molecules come together to form tiny stable particles called <strong>nuclei</strong>. These serve as seeds for further growth.</p>\n      <ul>\n        <li><strong>Homogeneous nucleation:</strong> Nuclei form spontaneously from solution</li>\n        <li><strong>Heterogeneous nucleation:</strong> Nuclei form on surfaces (dust, container walls)</li>\n      </ul>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>2️⃣ Particle Growth</strong>\n      <p>After nuclei form, additional ions deposit onto the existing nuclei, causing them to grow into larger particles.</p>\n      <ul>\n        <li>Competes with nucleation for available ions</li>\n        <li>Favored under conditions of low supersaturation</li>\n        <li>Produces larger, more crystalline precipitates</li>\n      </ul>\n    </div>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>The Relationship:</strong>\n    <p>The final precipitate characteristics depend on the relative rates of nucleation and particle growth:</p>\n    <ul>\n      <li><strong>High nucleation rate + low growth rate</strong> → many small particles (colloidal)</li>\n      <li><strong>Low nucleation rate + high growth rate</strong> → fewer large particles (crystalline)</li>\n    </ul>\n    <p>Relative supersaturation controls which mechanism dominates.</p>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> The two mechanisms are <strong>nucleation</strong> and <strong>particle growth</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Analytical Chemistry",
+      "Gravimetric Analysis",
+      "Precipitation"
+    ],
+    "Question": {
+      "content": "What is formed when interfering ions become trapped within the growing precipitate?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mixed crystals or occluded impurities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Impurity Trapping in Precipitates</h4>\n  \n  <p>When interfering ions become trapped within a growing precipitate, several types of contamination can occur:</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Mixed Crystal Formation (Isomorphous Replacement)</strong><br>\n    When an interfering ion has similar size and charge to the analyte ion, it can substitute in the crystal lattice. Example: Ba²⁺ and Pb²⁺ in BaSO₄ precipitation.\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Occlusion</strong><br>\n    Impurities are physically trapped within pockets or imperfections in the growing crystal. This happens during rapid crystal growth.\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>3. Inclusion</strong><br>\n    Impurities are trapped at specific sites within the crystal lattice, often due to similar ionic radii.\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n    <strong>Common term:</strong> In analytical chemistry, the general phenomenon of interfering ions being trapped inside the precipitate is often referred to as <strong>coprecipitation</strong>.\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> When interfering ions become trapped within the growing precipitate, <strong>mixed crystals</strong> or <strong>occluded impurities</strong> are formed.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Analytical Chemistry",
+      "Gravimetric Analysis",
+      "Precipitation Techniques"
+    ],
+    "Question": {
+      "content": "What is the effect of slowly addition of precipitating agent and stirring in gravimetric analysis?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Produces larger, purer, more filterable crystalline precipitates"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Slow Addition and Stirring in Gravimetry</h4>\n  \n  <p>Slow addition of precipitating agent with constant stirring has several important effects:</p>\n  \n  <div style='display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 15px 0;'>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor);'>📉 Lowers Supersaturation</strong>\n      <p>Prevents local high concentrations of precipitating agent, keeping relative supersaturation low.</p>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor);'>🧊 Favors Crystal Growth</strong>\n      <p>Low supersaturation favors particle growth over nucleation, producing larger crystals.</p>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor);'>✨ Improves Purity</strong>\n      <p>Larger crystals have less surface area for adsorption and trap fewer impurities.</p>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor);'>🔬 Enhances Filterability</strong>\n      <p>Larger crystalline particles are easier to filter and wash.</p>\n    </div>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Why it works:</strong>\n    <p>When precipitating agent is added slowly with stirring, the reagent is distributed evenly throughout the solution. This prevents localized regions of high supersaturation where many small nuclei would form. Instead, existing crystals grow larger.</p>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> Slow addition and stirring produces <strong>larger, purer, more filterable crystalline precipitates</strong>.\n  </div>\n  \n  <p style='margin-top: 15px;'>This is a key technique in gravimetric analysis to obtain ideal precipitates.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Analytical Chemistry",
+      "Gravimetric Analysis"
+    ],
+    "Question": {
+      "content": "Write a general chemical equation showing a reaction for gravimetric analysis",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "aA + bR → A_aR_b ↓ (where A is analyte, R is precipitating reagent)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>General Equation for Gravimetric Analysis</h4>\n  \n  <p>In gravimetric analysis, the analyte is converted to an insoluble precipitate that can be weighed. The general form is:</p>\n  \n  <div style='background: var(--preset-bg-color); padding: 20px; border-radius: 8px; margin: 15px 0; font-size: 1.3em; text-align: center;'>\n    <strong>aA + bR → AₐR_b ↓</strong>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Where:</strong><br>\n    <ul>\n      <li><strong>A</strong> = Analyte (the substance being determined)</li>\n      <li><strong>R</strong> = Precipitating reagent</li>\n      <li><strong>a, b</strong> = Stoichiometric coefficients</li>\n      <li><strong>AₐR_b</strong> = The precipitate formed</li>\n      <li><strong>↓</strong> = Indicates precipitate (solid)</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Specific Examples:</strong><br>\n    \n    <div style='margin-top: 10px;'>\n      <strong>Determination of chloride:</strong><br>\n      Ag⁺(aq) + Cl⁻(aq) → AgCl(s)↓\n    </div>\n    \n    <div style='margin-top: 10px;'>\n      <strong>Determination of sulfate:</strong><br>\n      Ba²⁺(aq) + SO₄²⁻(aq) → BaSO₄(s)↓\n    </div>\n    \n    <div style='margin-top: 10px;'>\n      <strong>Determination of calcium:</strong><br>\n      Ca²⁺(aq) + C₂O₄²⁻(aq) → CaC₂O₄(s)↓\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> The general equation is <strong>aA + bR → AₐR_b ↓</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Chemistry",
+      "Buffer Solutions",
+      "pH Control"
+    ],
+    "Question": {
+      "content": "What would you do to increase the pH of an acid-buffer solution with a pH of 3?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Add more conjugate base or add a strong base"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Increasing pH of an Acidic Buffer</h4>\n  \n  <p>An acid buffer consists of a weak acid and its conjugate base. The pH is given by the Henderson-Hasselbalch equation:</p>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0; text-align: center;'>\n    pH = pKₐ + log([salt]/[acid])\n  </div>\n  \n  <p>To increase the pH (make it less acidic/more basic), we need to increase the [salt]/[acid] ratio.</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Methods to increase pH:</strong><br>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n      <strong style='color: var(--strongColor);'>1. Add more conjugate base (salt)</strong>\n      <p>Increasing [salt] increases the log([salt]/[acid]) term, raising pH.</p>\n      <p><em>Example:</em> Add sodium acetate to an acetic acid buffer.</p>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n      <strong style='color: var(--strongColor);'>2. Add a strong base (like NaOH)</strong>\n      <p>The strong base reacts with the weak acid, converting it to conjugate base:</p>\n      <p>HA + OH⁻ → A⁻ + H₂O</p>\n      <p>This decreases [HA] and increases [A⁻], increasing the ratio and pH.</p>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n      <strong style='color: var(--strongColor);'>3. Dilute the buffer (limited effect)</strong>\n      <p>Dilution affects both [acid] and [salt] equally, so the ratio stays constant. However, very dilute buffers may lose buffering capacity.</p>\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> To increase the pH of an acid buffer, <strong>add more conjugate base or add a strong base</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Chemistry",
+      "Acid-Base Equilibrium",
+      "Ka Calculation"
+    ],
+    "Question": {
+      "content": "A weak acid HA is 2% dissociated in a 1.00M solution. Find the value of Ka.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4.0 × 10⁻⁴"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Ka from Percent Dissociation</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Write the dissociation equation</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n      HA ⇌ H⁺ + A⁻\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Determine concentrations at equilibrium</strong><br>\n    Initial concentration of HA = 1.00 M<br>\n    Percent dissociation = 2% = 0.02<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      [H⁺] at equilibrium = 1.00 M × 0.02 = 0.0200 M<br>\n      [A⁻] at equilibrium = 0.0200 M (from dissociation)<br>\n      [HA] at equilibrium = 1.00 - 0.0200 = 0.980 M\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Apply the Ka expression</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Ka = \\( \\frac{[H^+][A^-]}{[HA]} = \\frac{(0.0200)(0.0200)}{0.980} \\)<br>\n      Ka = \\( \\frac{0.0004}{0.980} = 4.08 \\times 10^{-4} \\)\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> Ka = <strong>4.08 × 10⁻⁴</strong> (approximately 4.0 × 10⁻⁴).\n  </div>\n  \n  <p style='margin-top: 15px;'>Note: Since the dissociation is small (2%), we could also approximate [HA] ≈ 1.00 M, giving Ka ≈ 4.0 × 10⁻⁴.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Analytical Chemistry",
+      "Stoichiometry",
+      "Reaction Calculations"
+    ],
+    "Question": {
+      "content": "What mass of AgNO₃ is needed to convert 2.33g of Na₂CO₃ to Ag₂CO₃? (AgNO₃ = 169.9 g/mol, Na₂CO₃ = 106.0 g/mol)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "7.47 g"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Mass of AgNO₃ Needed</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Write the balanced equation</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; font-family: monospace;'>\n      2AgNO₃ + Na₂CO₃ → Ag₂CO₃ + 2NaNO₃\n    </div>\n    From the equation: <strong>2 mol AgNO₃ react with 1 mol Na₂CO₃</strong>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Find moles of Na₂CO₃</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of Na₂CO₃ = \\( \\frac{2.33 \\text{ g}}{106.0 \\text{ g/mol}} = 0.02198 \\text{ mol} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Find moles of AgNO₃ needed</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of AgNO₃ = 0.02198 mol Na₂CO₃ × \\( \\frac{2 \\text{ mol AgNO₃}}{1 \\text{ mol Na₂CO₃}} = 0.04396 \\text{ mol} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Calculate mass of AgNO₃</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Mass of AgNO₃ = 0.04396 mol × 169.9 g/mol = <strong>7.47 g</strong>\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> <strong>7.47 g</strong> of AgNO₃ is needed.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Chemistry",
+      "Buffer Solutions",
+      "pH and pOH"
+    ],
+    "Question": {
+      "content": "A buffer solution is made up of acetic acid (pKb = 5) having concentration of 1.5M and sodium acetate having concentration of 0.15M. What is the number of OH ions present in 1 litre solution?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1.51 × 10⁴ ions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating OH⁻ Ions in Buffer Solution</h4>\n  \n  <p><strong>Note:</strong> The question gives pKb of acetic acid = 5. This is unusual - typically pKa of acetic acid is 4.74. But we'll work with the given value.</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Find pKa from pKb</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      pKa + pKb = 14<br>\n      pKa = 14 - pKb = 14 - 5 = 9\n    </div>\n    <p>This is unusually high for acetic acid, but we'll use it.</p>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Calculate pH using Henderson-Hasselbalch</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      pH = pKa + log([salt]/[acid])<br>\n      pH = 9 + log(0.15/1.5)<br>\n      pH = 9 + log(0.1)<br>\n      pH = 9 + (-1) = 8\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Calculate pOH</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      pOH = 14 - pH = 14 - 8 = 6\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Calculate [OH⁻]</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      [OH⁻] = 10⁻ᵖᴼᴴ = 10⁻⁶ = 1.0 × 10⁻⁶ M\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 5: Calculate number of OH⁻ ions in 1 L</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Number of moles OH⁻ = 1.0 × 10⁻⁶ mol<br>\n      Number of ions = moles × Avogadro's number<br>\n      Number of ions = (1.0 × 10⁻⁶) × (6.022 × 10²³)<br>\n      Number of ions = <strong>6.02 × 10¹⁷ ions</strong>\n    </div>\n  </div>\n  \n  <div style='background: var(--warningBg); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>⚠️ Note:</strong> The answer given in the question template (1.51 × 10⁴) seems incorrect for this calculation. With the given pKb=5, we get 6.02 × 10¹⁷ ions. If pKa of acetic acid were 4.74 (normal value), pH = 4.74 + log(0.1) = 3.74, pOH = 10.26, [OH⁻] = 5.5 × 10⁻¹¹ M, giving about 3.3 × 10¹³ ions.\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer (using given pKb=5):</strong> <strong>6.02 × 10¹⁷ OH⁻ ions</strong> in 1 litre.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Chemistry",
+      "Buffer Solutions",
+      "Henderson-Hasselbalch Equation"
+    ],
+    "Question": {
+      "content": "The pKa of certain weak acid is 4.0. What should be the salt to acid ratio if we have to prepare a buffer with pH = 5 using the acid and one of the salts?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "10:1 (salt:acid)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Salt to Acid Ratio for Buffer</h4>\n  \n  <p>For a buffer solution, we use the Henderson-Hasselbalch equation:</p>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0; text-align: center; font-size: 1.2em;'>\n    pH = pKa + log([salt]/[acid])\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Substitute known values</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      pH = 5.0<br>\n      pKa = 4.0<br>\n      5.0 = 4.0 + log([salt]/[acid])\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Solve for the log term</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      5.0 - 4.0 = log([salt]/[acid])<br>\n      1.0 = log([salt]/[acid])\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Take antilog</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      [salt]/[acid] = 10¹ = 10\n    </div>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Interpretation:</strong>\n    <p>The ratio [salt]/[acid] = 10 means that to achieve pH = 5 with an acid of pKa = 4, we need:</p>\n    <ul>\n      <li>10 times more salt (conjugate base) than acid, OR</li>\n      <li>A 10:1 ratio of salt to acid</li>\n    </ul>\n    <p>For example: 0.5 M salt and 0.05 M acid, or 1.0 M salt and 0.1 M acid.</p>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> The required salt to acid ratio is <strong>10:1</strong>.\n  </div>\n  \n  <p style='margin-top: 15px;'>This makes sense because pH = pKa + 1 requires [salt]/[acid] = 10.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Analytical Chemistry",
+      "Gravimetric Analysis",
+      "Percent Composition"
+    ],
+    "Question": {
+      "content": "A 0.735g sample of an alloy containing copper and zinc is dissolved in 8M HCl and made up to 100ml in a volumetric flask. In one analysis, the zinc in a 25.00mL portion of the solution is precipitated and subsequently isolated as Zn₂P₂O₇, yielding 0.1163g. In another 25.00mL portion, copper is precipitated as CuSCN, yielding 0.2931g. Calculate the %w/w Zn and the %w/w Cu in the sample.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "%Zn = 15.87%, %Cu = 67.85%"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating %Zn and %Cu in Alloy</h4>\n  \n  <p><strong>Note:</strong> The precipitate formulas appear to have typos. Zn₂P₂O₇ (zinc pyrophosphate) is correct, and CuSCN (copper(I) thiocyanate) is correct.</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Calculate molar masses</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Molar mass of Zn₂P₂O₇ = (2×65.38) + (2×30.97) + (7×16.00)<br>\n      = 130.76 + 61.94 + 112.00 = <strong>304.70 g/mol</strong><br><br>\n      \n      Molar mass of CuSCN = 63.55 + 32.07 + 12.01 + 14.01<br>\n      = <strong>121.64 g/mol</strong>\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Calculate Zn in the 25 mL portion</strong><br>\n    Each mole of Zn₂P₂O₇ contains 2 moles of Zn.<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of Zn₂P₂O₇ = \\( \\frac{0.1163}{304.70} = 3.817 × 10^{-4} \\text{ mol} \\)<br>\n      Moles of Zn in portion = 2 × 3.817 × 10⁻⁴ = 7.634 × 10⁻⁴ mol<br>\n      Mass of Zn in portion = 7.634 × 10⁻⁴ × 65.38 = <strong>0.04990 g</strong>\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Calculate Cu in the 25 mL portion</strong><br>\n    Each mole of CuSCN contains 1 mole of Cu.<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of CuSCN = \\( \\frac{0.2931}{121.64} = 2.409 × 10^{-3} \\text{ mol} \\)<br>\n      Moles of Cu in portion = 2.409 × 10⁻³ mol<br>\n      Mass of Cu in portion = 2.409 × 10⁻³ × 63.55 = <strong>0.1531 g</strong>\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Calculate total mass in original sample</strong><br>\n    The 25 mL portion is 1/4 of the total 100 mL solution.<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Total Zn in sample = 0.04990 × 4 = 0.1996 g<br>\n      Total Cu in sample = 0.1531 × 4 = 0.6124 g\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 5: Calculate percentages</strong><br>\n    Sample mass = 0.735 g<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      %Zn = \\( \\frac{0.1996}{0.735} × 100 = 27.16\\% \\)<br>\n      %Cu = \\( \\frac{0.6124}{0.735} × 100 = 83.32\\% \\)\n    </div>\n  </div>\n  \n  <div style='background: var(--warningBg); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>⚠️ Note:</strong> The sum is 110.48%, which is impossible. This suggests either:\n    <ul>\n      <li>The precipitate masses might be for different aliquot sizes</li>\n      <li>There might be a typo in the precipitate formulas</li>\n      <li>The sample might contain other elements</li>\n    </ul>\n    Using the given data, these are the calculated values.\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer (based on given data):</strong> %Zn = <strong>27.16%</strong>, %Cu = <strong>83.32%</strong>\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Chemistry",
+      "Mole Concept",
+      "Formula Weight"
+    ],
+    "Question": {
+      "content": "What is the formula weight of 2.5 moles of glucose?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Formula weight is 180 g/mol (independent of moles)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Formula Weight vs. Mass</h4>\n  \n  <p><strong>Formula weight</strong> (molar mass) is an intensive property - it doesn't depend on the amount of substance.</p>\n  \n  <div style='background: var(--preset-bg-color); padding: 20px; border-radius: 8px; margin: 15px 0; text-align: center;'>\n    <strong style='font-size: 1.2em;'>Formula weight of glucose (C₆H₁₂O₆)</strong><br><br>\n    C: 6 × 12.01 = 72.06<br>\n    H: 12 × 1.008 = 12.096<br>\n    O: 6 × 16.00 = 96.00<br>\n    <strong>Total = 180.156 g/mol ≈ 180 g/mol</strong>\n  </div>\n  \n  <p>The question asks for \"formula weight of 2.5 moles of glucose\" - this is a trick. Formula weight is always per mole, regardless of how many moles you have.</p>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>If they meant \"mass\" of 2.5 moles:</strong><br>\n    Mass = moles × molar mass = 2.5 mol × 180 g/mol = <strong>450 g</strong>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> The formula weight of glucose is <strong>180 g/mol</strong>, regardless of the number of moles.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Chemistry",
+      "Stoichiometry",
+      "Mass Percent"
+    ],
+    "Question": {
+      "content": "What weight of calcium is contained in 50g of CaSO₄?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "14.73 g"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Mass of Calcium in CaSO₄</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Calculate molar mass of CaSO₄</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Ca = 40.08 g/mol<br>\n      S = 32.06 g/mol<br>\n      O₄ = 4 × 16.00 = 64.00 g/mol<br>\n      <strong>Molar mass of CaSO₄ = 40.08 + 32.06 + 64.00 = 136.14 g/mol</strong>\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Calculate mass fraction of Ca</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Mass fraction of Ca = \\( \\frac{40.08}{136.14} = 0.2944 \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Calculate mass of Ca in 50g CaSO₄</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Mass of Ca = 50.0 g × 0.2944 = <strong>14.72 g</strong>\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> <strong>14.72 g</strong> of calcium is contained in 50g of CaSO₄.\n  </div>\n  \n  <p style='margin-top: 15px;'>Alternative method: Use ratio (40.08/136.14) × 50 = 14.72 g.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Chemistry",
+      "Mole Concept",
+      "Millimoles"
+    ],
+    "Question": {
+      "content": "How many millimoles of benzoic acid, C₆H₅COOH, are contained in 4.00g of the pure acid?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "32.8 millimoles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Millimoles of Benzoic Acid</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Determine the formula and molar mass</strong><br>\n    Benzoic acid = C₆H₅COOH = C₇H₆O₂<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      C₇ = 7 × 12.01 = 84.07<br>\n      H₆ = 6 × 1.008 = 6.048<br>\n      O₂ = 2 × 16.00 = 32.00<br>\n      <strong>Molar mass = 84.07 + 6.048 + 32.00 = 122.12 g/mol</strong>\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Calculate moles</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles = \\( \\frac{4.00 \\text{ g}}{122.12 \\text{ g/mol}} = 0.03275 \\text{ mol} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Convert to millimoles</strong><br>\n    1 mol = 1000 mmol<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Millimoles = 0.03275 × 1000 = <strong>32.75 mmol</strong>\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> <strong>32.8 mmol</strong> (rounded to three significant figures).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Chemistry",
+      "Mole Concept",
+      "Stoichiometry"
+    ],
+    "Question": {
+      "content": "How many moles of sodium is contained in 25.0g of sodium sulphate?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.352 moles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Moles of Sodium in Na₂SO₄</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Identify the formula</strong><br>\n    Sodium sulphate = Na₂SO₄<br>\n    Each formula unit contains <strong>2 atoms of sodium</strong>.\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Calculate molar mass of Na₂SO₄</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Na₂ = 2 × 22.99 = 45.98<br>\n      S = 32.06<br>\n      O₄ = 4 × 16.00 = 64.00<br>\n      <strong>Molar mass = 45.98 + 32.06 + 64.00 = 142.04 g/mol</strong>\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Calculate moles of Na₂SO₄</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of Na₂SO₄ = \\( \\frac{25.0}{142.04} = 0.1760 \\text{ mol} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Calculate moles of Na</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of Na = 2 × 0.1760 = <strong>0.352 mol</strong>\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> <strong>0.352 moles</strong> of sodium.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Analytical Chemistry",
+      "Significant Figures"
+    ],
+    "Question": {
+      "content": "How many significant figures do we have in 4.76?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3 significant figures"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Significant Figures in 4.76</h4>\n  \n  <p>The number <strong>4.76</strong> has <strong>3 significant figures</strong>.</p>\n  \n  <div style='background: var(--preset-bg-color); padding: 20px; border-radius: 8px; margin: 15px 0;'>\n    <strong style='color: var(--strongColor); font-size: 1.1em;'>Rules for Significant Figures:</strong>\n    \n    <table style='width: 100%; margin-top: 15px; border-collapse: collapse;'>\n      <tr style='border-bottom: 1px solid var(--lightAsh);'>\n        <th style='text-align: left; padding: 8px;'>Rule</th>\n        <th style='text-align: left; padding: 8px;'>Example</th>\n      </tr>\n      <tr style='border-bottom: 1px solid var(--lightAsh);'>\n        <td style='padding: 8px;'>All non-zero digits are significant</td>\n        <td style='padding: 8px;'>4, 7, and 6 are all non-zero → 3 sig figs</td>\n      </tr>\n      <tr style='border-bottom: 1px solid var(--lightAsh);'>\n        <td style='padding: 8px;'>Zeros between non-zero digits are significant</td>\n        <td style='padding: 8px;'>Not applicable here</td>\n      </tr>\n      <tr style='border-bottom: 1px solid var(--lightAsh);'>\n        <td style='padding: 8px;'>Leading zeros are not significant</td>\n        <td style='padding: 8px;'>Not applicable here</td>\n      </tr>\n      <tr>\n        <td style='padding: 8px;'>Trailing zeros after decimal are significant</td>\n        <td style='padding: 8px;'>Not applicable here</td>\n      </tr>\n    </table>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Examples for comparison:</strong><br>\n    <ul>\n      <li>4.76 → 3 significant figures</li>\n      <li>4.760 → 4 significant figures (trailing zero after decimal counts)</li>\n      <li>0.00476 → 3 significant figures (leading zeros don't count)</li>\n      <li>476 → 3 significant figures</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> <strong>3 significant figures</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Analytical Chemistry",
+      "Error Analysis"
+    ],
+    "Question": {
+      "content": "If the accepted and measured length of a table are 50m and 45m respectively. Calculate the relative error.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "10%"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Relative Error</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Recall the formula</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n      Relative Error = \\( \\frac{|\\text{Measured - Accepted}|}{\\text{Accepted}} \\times 100\\% \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Identify values</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Accepted value = 50 m<br>\n      Measured value = 45 m\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Calculate absolute error</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Absolute error = |45 - 50| = 5 m\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Calculate relative error</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Relative error = \\( \\frac{5}{50} \\times 100\\% = 0.1 \\times 100\\% = 10\\% \\)\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> The relative error is <strong>10%</strong>.\n  </div>\n  \n  <p style='margin-top: 15px;'>Note: The negative sign (indicating measurement is less than accepted) is usually not included in relative error calculation.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Analytical Chemistry",
+      "Error Analysis"
+    ],
+    "Question": {
+      "content": "Calculate the absolute error in question 16 above",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5 m"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Absolute Error</h4>\n  \n  <p>From Question 17 (not 16 - likely a numbering error in the question paper):</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Recall the formula</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n      Absolute Error = |Measured value - Accepted value|\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Identify values</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Accepted value = 50 m<br>\n      Measured value = 45 m\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Calculate</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Absolute error = |45 - 50| = <strong>5 m</strong>\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> The absolute error is <strong>5 m</strong>.\n  </div>\n  \n  <p style='margin-top: 15px;'>Absolute error tells us the magnitude of the error without regard to direction.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Analytical Chemistry",
+      "Statistics",
+      "Error Analysis"
+    ],
+    "Question": {
+      "content": "Five replicate analysis of Pb in soil yielded the following results in mg/kg 1.10, 0.81, 1.20, 0.10 and 0.90. Briefly comment on the precision and type of error due to the results obtained.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Poor precision due to wide scatter; 0.10 appears to be an outlier (gross error)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Analysis of Pb Measurements</h4>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong>Data:</strong> 1.10, 0.81, 1.20, 0.10, 0.90 mg/kg<br>\n    <strong>n = 5</strong>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Calculate basic statistics</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Mean = (1.10 + 0.81 + 1.20 + 0.10 + 0.90)/5 = 4.11/5 = 0.822 mg/kg<br>\n      Range = 1.20 - 0.10 = 1.10 mg/kg<br>\n      Standard deviation (approx) = 0.42 mg/kg\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Assess precision</strong><br>\n    The results show <strong>poor precision</strong> because:\n    <ul>\n      <li>Very wide range (1.10 mg/kg compared to mean of 0.822)</li>\n      <li>High standard deviation relative to the mean (RSD ≈ 51%)</li>\n      <li>Values are scattered from 0.10 to 1.20</li>\n    </ul>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Identify type of error</strong><br>\n    <ul>\n      <li>The value <strong>0.10</strong> is suspiciously low compared to others</li>\n      <li>It appears to be an <strong>outlier</strong> - likely a <strong>gross error</strong> (mistake in measurement, contamination, calculation error, etc.)</li>\n      <li>Excluding the outlier, the remaining values (1.10, 0.81, 1.20, 0.90) have mean = 1.00 mg/kg and range = 0.39 mg/kg - much better precision</li>\n      <li>The scatter among the other four values indicates <strong>random error</strong></li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Comment:</strong> The results show <strong>poor precision overall due to one extreme outlier (0.10)</strong>. This outlier represents a <strong>gross error</strong>. The remaining four values show reasonable precision with random error.\n  </div>\n  \n  <p style='margin-top: 15px;'>The analyst should investigate what caused the 0.10 value and possibly reject it using statistical tests like the Q-test.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Analytical Chemistry",
+      "Error Analysis"
+    ],
+    "Question": {
+      "content": "Using formula differentiate between absolute and random error.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Absolute error = |measured - true|; Random error has no formula - it's the scatter in measurements expressed as standard deviation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Absolute Error vs. Random Error</h4>\n  \n  <div style='display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 15px 0;'>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>📏 Absolute Error</strong>\n      <p>Absolute error is the difference between the measured value and the true value.</p>\n      <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center; font-size: 1.2em;'>\n        <strong>E_abs = |x_i - x_true|</strong>\n      </div>\n      <ul>\n        <li>Applies to a single measurement</li>\n        <li>Has the same units as the measurement</li>\n        <li>Measures accuracy</li>\n        <li>Can be positive or negative (though absolute value is often used)</li>\n      </ul>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>🎲 Random Error</strong>\n      <p>Random error cannot be expressed by a simple formula for a single measurement. It is characterized by the scatter of multiple measurements.</p>\n      <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n        <strong>Standard Deviation: s = \\( \\sqrt{\\frac{\\sum(x_i - \\bar{x})^2}{n-1}} \\)</strong>\n      </div>\n      <ul>\n        <li>Applies to a set of measurements</li>\n        <li>Describes precision (reproducibility)</li>\n        <li>Has no sign - always positive</li>\n        <li>Random errors are due to uncontrollable variables</li>\n      </ul>\n    </div>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Key Differences:</strong>\n    <table style='width: 100%; margin-top: 10px; border-collapse: collapse;'>\n      <tr>\n        <th style='text-align: left;'>Aspect</th>\n        <th style='text-align: left;'>Absolute Error</th>\n        <th style='text-align: left;'>Random Error</th>\n      </tr>\n      <tr>\n        <td>What it measures</td>\n        <td>Accuracy</td>\n        <td>Precision</td>\n      </tr>\n      <tr>\n        <td>Requires true value</td>\n        <td>Yes</td>\n        <td>No</td>\n      </tr>\n      <tr>\n        <td>Applies to</td>\n        <td>Single measurement</td>\n        <td>Set of measurements</td>\n      </tr>\n      <tr>\n        <td>Formula</td>\n        <td>|x_i - x_true|</td>\n        <td>s = √[Σ(x_i - x̄)²/(n-1)]</td>\n      </tr>\n    </table>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> Absolute error formula: <strong>|x_i - x_true|</strong>. Random error is expressed by <strong>standard deviation: s = √[Σ(x_i - x̄)²/(n-1)]</strong>.\n  </div>\n</div>"
+    }
+  }
+
+]
