@@ -1,0 +1,586 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "OBJ",
+    "course_title": "Analystical Chemistry",
+    "code": "CHM 235.1",
+    "session": "2023/2024",
+    "topics": ["Analytical Chemistry", "Precipitation Titration", "Molarity Calculation", "Qualitative Analysis", "Definitions", "Gravimetric Analysis", "Precipitation", "Colloidal Chemistry", "Titration", "Terminology", "Drying Techniques", "Stoichiometry", "Reaction Calculations", "Analytical Process", "Acid-Base Indicators", "Equilibrium", "Crystallization", "Error Analysis", "Electroanalytical Techniques", "Chemistry", "Electrochemistry", "Faraday's Laws", "Electrolysis", "Statistics", "Indicators", "Classification of Methods"],
+    "time": "120"
+  },
+  
+  
+  {
+    "type": "Instruction",
+    "content": "Attempt All Questions"
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Analytical Chemistry",
+      "Precipitation Titration",
+      "Molarity Calculation"
+    ],
+    "Question": {
+      "content": "A 10.0 ml solution containing Cl⁻ was treated with excess AgNO₃ to precipitate 0.4368 g of AgCl. Calculate the concentration in Mol/dm³ of Cl⁻ in the solution?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.305 M"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Finding Molarity of Cl⁻</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Understand the reaction</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; font-family: monospace;'>\n      Ag⁺ + Cl⁻ → AgCl↓\n    </div>\n    This is a 1:1 reaction. <strong>1 mole of Cl⁻ produces 1 mole of AgCl</strong>.\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Find moles of AgCl precipitated</strong><br>\n    Molar mass of AgCl = 143.32 g/mol (Ag=107.87, Cl=35.45)\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of AgCl = \\( \\frac{0.4368 \\text{ g}}{143.32 \\text{ g/mol}} = 0.003048 \\text{ mol} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Relate to Cl⁻</strong><br>\n    Since 1 mol AgCl comes from 1 mol Cl⁻:\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of Cl⁻ = 0.003048 mol\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Calculate molarity of Cl⁻</strong><br>\n    Volume = 10.0 mL = 0.0100 dm³ (Note: 1 dm³ = 1 L)\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Molarity = \\( \\frac{\\text{moles}}{\\text{volume in dm³}} \\)<br>\n      Molarity = \\( \\frac{0.003048 \\text{ mol}}{0.0100 \\text{ dm³}} = 0.3048 \\text{ M} \\)\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> The concentration of Cl⁻ in the solution is <strong>0.305 M</strong> (rounded to 3 significant figures).\n  </div>\n  \n  <p style='margin-top: 15px;'>Note: 1 mol/dm³ is exactly the same as 1 M (molar).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Analytical Chemistry",
+      "Qualitative Analysis"
+    ],
+    "Question": {
+      "content": "The type of analysis in which substances are classified on the basis of chemical reactivity is called?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Qualitative analysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Chemical Analysis</h4>\n  \n  <p>When we classify substances based on how they react chemically (their chemical reactivity), we are performing <strong>qualitative analysis</strong>.</p>\n  \n  <div style='display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 15px 0;'>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>🔍 Qualitative Analysis</strong>\n      <ul style='margin-top: 10px; padding-left: 20px;'>\n        <li>Answers \"What is present?\"</li>\n        <li>Identifies substances by their reactions</li>\n        <li>Uses selective reagents</li>\n        <li>Examples: Flame tests, spot tests, group separation</li>\n      </ul>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>⚖️ Quantitative Analysis</strong>\n      <ul style='margin-top: 10px; padding-left: 20px;'>\n        <li>Answers \"How much is present?\"</li>\n        <li>Measures amounts or concentrations</li>\n        <li>Examples: Titrations, gravimetry</li>\n      </ul>\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> The analysis that classifies substances based on chemical reactivity is <strong>qualitative analysis</strong>.\n  </div>\n  \n  <p style='margin-top: 15px;'>For example, in qualitative inorganic analysis, we classify ions into groups based on their reactions with specific precipitants (like Group I chlorides, Group II sulfides, etc.).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Analytical Chemistry",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Define the term analysis?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The process of determining the composition of a substance"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Definition of Analysis</h4>\n  \n  <p>In chemistry, <strong>analysis</strong> refers to:</p>\n  \n  <div style='background: var(--preset-bg-color); padding: 20px; border-radius: 8px; margin: 15px 0; font-size: 1.1em; text-align: center;'>\n    <strong>\"The process of determining the composition of a substance\"</strong>\n  </div>\n  \n  <p>This can be broken down into two main aspects:</p>\n  \n  <ul style='margin-top: 10px;'>\n    <li><strong>Qualitative analysis:</strong> Identifying what components are present</li>\n    <li><strong>Quantitative analysis:</strong> Determining how much of each component is present</li>\n  </ul>\n  \n  <div style='margin-top: 15px;'>\n    <strong style='color: var(--strongColor);'>More Comprehensive Definition:</strong><br>\n    Chemical analysis is the systematic process of separating, identifying, and quantifying the chemical components of a sample. It involves a series of steps from sampling to final reporting of results.\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px; margin-top: 15px;'>\n    <strong>✅ Simple Definition:</strong> Analysis is the determination of the composition of a material.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Analytical Chemistry",
+      "Gravimetric Analysis",
+      "Precipitation"
+    ],
+    "Question": {
+      "content": "What do we do to colloidal particles to give a filterable mass that will settle out of solution?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Coagulate or digest them"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Handling Colloidal Precipitates</h4>\n  \n  <p>Colloidal particles are too small to be trapped by ordinary filter paper and remain suspended in solution. To make them filterable, we need to aggregate them.</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Process: Coagulation or Digestion</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li><strong>Coagulation:</strong> Adding electrolytes to neutralize the surface charges that keep colloidal particles suspended</li>\n      <li><strong>Digestion:</strong> Heating the precipitate in the mother liquor to promote particle growth and aggregation</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>What happens during coagulation?</strong>\n    <ol style='margin-top: 10px;'>\n      <li>Colloidal particles have like charges and repel each other</li>\n      <li>Adding an electrolyte (like an acid or salt) neutralizes these charges</li>\n      <li>Particles can now come together and aggregate</li>\n      <li>Larger particles form that will settle out and can be filtered</li>\n    </ol>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> We <strong>coagulate</strong> or <strong>digest</strong> colloidal particles to give a filterable mass that will settle out of solution.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Analytical Chemistry",
+      "Precipitation",
+      "Colloidal Chemistry"
+    ],
+    "Question": {
+      "content": "Coagulation can be hastened by?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Heating, stirring, or adding electrolytes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Hastening Coagulation</h4>\n  \n  <p>Coagulation (the aggregation of colloidal particles) can be accelerated by several methods:</p>\n  \n  <div style='display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 15px 0;'>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor);'>🔥 Heating</strong>\n      <p>Increasing temperature increases particle kinetic energy, leading to more collisions and faster aggregation.</p>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor);'>🧂 Adding Electrolytes</strong>\n      <p>Ions neutralize the surface charges on colloidal particles, reducing repulsion and allowing particles to come together.</p>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor);'>🔄 Stirring or Agitation</strong>\n      <p>Mechanical agitation increases collision frequency between particles.</p>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor);'>⏱️ Allowing Time (Digestion)</strong>\n      <p>Standing for a longer period allows particles to slowly aggregate.</p>\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> Coagulation can be hastened by <strong>heating, stirring, adding electrolytes, or allowing the precipitate to digest</strong>.\n  </div>\n  \n  <p style='margin-top: 15px;'>In practice, a combination of heating and adding electrolyte is most effective.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Analytical Chemistry",
+      "Titration",
+      "Terminology"
+    ],
+    "Question": {
+      "content": "The difference in volume or mass between the equivalence point and the end point is?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Titration error"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Equivalence Point vs. End Point</h4>\n  \n  <p>In titrations, there is an important distinction between two key terms:</p>\n  \n  <div style='display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 15px 0;'>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>⚖️ Equivalence Point</strong>\n      <ul style='margin-top: 10px;'>\n        <li>The theoretical point where the amount of titrant added is exactly stoichiometrically equivalent to the analyte</li>\n        <li>Cannot be measured directly</li>\n        <li>Calculated from stoichiometry</li>\n      </ul>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>🎯 End Point</strong>\n      <ul style='margin-top: 10px;'>\n        <li>The point we actually observe in the lab</li>\n        <li>Detected by indicator color change or instrument</li>\n        <li>Should be as close as possible to equivalence point</li>\n      </ul>\n    </div>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>The difference between them is called:</strong>\n    <div style='font-size: 1.3em; text-align: center; margin: 10px 0; color: var(--strongColor);'>\n      TITRATION ERROR\n    </div>\n    <p>This is also known as the <strong>indicator error</strong> or <strong>end point error</strong>.</p>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> The difference between the equivalence point and the end point is the <strong>titration error</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Analytical Chemistry",
+      "Gravimetric Analysis",
+      "Drying Techniques"
+    ],
+    "Question": {
+      "content": "Low temperature drying during precipitation gravimetry is suitable for?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Precipitates that are hygroscopic or decompose at high temperatures"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Low Temperature Drying in Gravimetry</h4>\n  \n  <p>Low temperature drying (typically below 100°C or in a desiccator) is used for specific types of precipitates:</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Hygroscopic Precipitates</strong><br>\n    Some compounds readily absorb moisture from the air. High temperatures might drive off this moisture, but they might also cause the precipitate to reabsorb moisture during cooling. Low temperature drying minimizes this issue.\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Thermally Unstable Compounds</strong><br>\n    Some precipitates decompose, oxidize, or undergo chemical changes at high temperatures. For example:\n    <ul style='margin-top: 5px;'>\n      <li>Hydrates that lose water of crystallization at moderate temperatures</li>\n      <li>Organic precipitates that might char or decompose</li>\n      <li>Compounds that volatilize at high temperatures</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> Low temperature drying is suitable for <strong>precipitates that are hygroscopic or decompose at high temperatures</strong>.\n  </div>\n  \n  <p style='margin-top: 15px;'>The goal is to remove volatile solvents (usually water) without altering the chemical composition of the precipitate.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Analytical Chemistry",
+      "Stoichiometry",
+      "Reaction Calculations"
+    ],
+    "Question": {
+      "content": "What mass of AgNO₃ (169.9 g/mol) is needed to convert 2.33 g of Na₂CO₃ (106.0 g/mol) to Ag₂CO₃?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "7.47 g"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Required Mass of AgNO₃</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Write the balanced equation</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; font-family: monospace;'>\n      Na₂CO₃ + 2AgNO₃ → Ag₂CO₃ + 2NaNO₃\n    </div>\n    From the equation: <strong>1 mol Na₂CO₃ reacts with 2 mol AgNO₃</strong>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Find moles of Na₂CO₃</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of Na₂CO₃ = \\( \\frac{2.33 \\text{ g}}{106.0 \\text{ g/mol}} = 0.02198 \\text{ mol} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Find moles of AgNO₃ needed</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of AgNO₃ = 0.02198 mol Na₂CO₃ × \\( \\frac{2 \\text{ mol AgNO₃}}{1 \\text{ mol Na₂CO₃}} \\)<br>\n      Moles of AgNO₃ = 0.04396 mol\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Calculate mass of AgNO₃</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Mass of AgNO₃ = 0.04396 mol × 169.9 g/mol<br>\n      Mass of AgNO₃ = <strong>7.47 g</strong>\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> You need <strong>7.47 grams</strong> of AgNO₃ to completely convert all Na₂CO₃ to Ag₂CO₃.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Analytical Chemistry",
+      "Precipitation",
+      "Gravimetric Analysis"
+    ],
+    "Question": {
+      "content": "What is the effect when a precipitate is placed into a volatile electrolyte solution and heated?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The volatile electrolyte evaporates, leaving a pure precipitate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Effect of Heating with Volatile Electrolyte</h4>\n  \n  <p>This technique is used in gravimetric analysis to purify precipitates.</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What happens:</strong><br>\n    <ol style='margin-top: 5px;'>\n      <li>The precipitate is placed in a solution containing a volatile electrolyte (like ammonium salts: NH₄Cl, NH₄NO₃, (NH₄)₂CO₃)</li>\n      <li>The mixture is heated</li>\n      <li>The volatile electrolyte helps to displace or dissolve impurities adsorbed on the precipitate</li>\n      <li>Upon heating, the volatile electrolyte decomposes or evaporates completely</li>\n      <li>What remains is a <strong>pure precipitate</strong> free from the electrolyte and many impurities</li>\n    </ol>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Example:</strong>\n    <p>In the gravimetric determination of calcium as CaC₂O₄·H₂O, the precipitate may be washed with dilute NH₄OH to remove impurities. Then ignition converts it to CaO or CaCO₃, and the ammonium salts volatilize.</p>\n    <div style='font-family: monospace; text-align: center; margin-top: 10px;'>\n      NH₄Cl (s) → NH₃(g) + HCl(g) [upon heating]\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> When a precipitate is placed into a volatile electrolyte solution and heated, <strong>the volatile electrolyte evaporates, leaving a pure precipitate</strong>.\n  </div>\n  \n  <p style='margin-top: 15px;'>This is a purification technique that removes adsorbed impurities without leaving any residue from the washing agent.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Analytical Chemistry",
+      "Analytical Process"
+    ],
+    "Question": {
+      "content": "Mention the fifth stage in an analytical process?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Calibration"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Analytical Process Stages</h4>\n  \n  <p>The complete analytical process typically consists of 7 stages:</p>\n  \n  <ol style='background: var(--preset-bg-color); padding: 15px 30px; border-radius: 5px;'>\n    <li><strong>Formulating the question</strong> - Defining what needs to be determined</li>\n    <li><strong>Selecting analytical procedure</strong> - Choosing appropriate methods</li>\n    <li><strong>Sampling</strong> - Obtaining a representative sample</li>\n    <li><strong>Sample preparation</strong> - Making the sample ready for analysis</li>\n    <li><strong><span style='color: var(--strongColor); font-size: 1.1em;'>Calibration (5th stage)</span></strong> - Establishing the relationship between measured signal and analyte concentration</li>\n    <li><strong>Measurement</strong> - Performing the actual analysis</li>\n    <li><strong>Evaluation and reporting</strong> - Calculating results and interpreting findings</li>\n  </ol>\n  \n  <div style='margin-top: 15px;'>\n    <strong style='color: var(--strongColor);'>What happens in the Calibration stage?</strong><br>\n    This is where we prepare standards of known concentration, measure their response, and create a calibration curve or equation. This allows us to convert the signal from our unknown sample into a concentration value.\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px; margin-top: 15px;'>\n    <strong>✅ Answer:</strong> The fifth stage in the analytical process is <strong>calibration</strong>.\n  </div>\n  \n  <p style='margin-top: 15px; font-style: italic;'>Note: Some sources list the stages slightly differently, but calibration typically comes after sample preparation and before measurement.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Analytical Chemistry",
+      "Titration",
+      "Terminology"
+    ],
+    "Question": {
+      "content": "The process of determining analyte by adding the small increment of standard solution until the reaction is just completed is called?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Titration"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Definition of Titration</h4>\n  \n  <p>The process described is the fundamental definition of <strong>titration</strong> (also called titrimetric analysis or volumetric analysis).</p>\n  \n  <div style='background: var(--preset-bg-color); padding: 20px; border-radius: 8px; margin: 15px 0;'>\n    <p style='font-size: 1.1em;'><strong>Titration</strong> is a quantitative analytical method where a solution of accurately known concentration (the titrant) is added gradually to another solution of unknown concentration (the analyte) until the chemical reaction between them is just complete.</p>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key elements of titration:</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li><strong>Standard solution:</strong> A solution of known concentration</li>\n      <li><strong>Small increments:</strong> Added gradually, often drop by drop</li>\n      <li><strong>Endpoint detection:</strong> Using indicators or instruments to know when the reaction is complete</li>\n      <li><strong>Equivalence point:</strong> The theoretical point where stoichiometric amounts have reacted</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Common types of titrations:</strong>\n    <ul>\n      <li>Acid-base titrations</li>\n      <li>Redox titrations</li>\n      <li>Complexometric titrations (like with EDTA)</li>\n      <li>Precipitation titrations (like with AgNO₃)</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> This process is called <strong>titration</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Analytical Chemistry",
+      "Gravimetric Analysis",
+      "Stoichiometry"
+    ],
+    "Question": {
+      "content": "Calculate the %P in a 0.3516 g food sample when the final yield is 0.2161 g Mg₂P₂O₇?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "17.18%"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Percentage of Phosphorus</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Find molar mass of Mg₂P₂O₇</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Mg = 24.31 × 2 = 48.62<br>\n      P = 30.97 × 2 = 61.94<br>\n      O = 16.00 × 7 = 112.00<br>\n      <strong>Total = 48.62 + 61.94 + 112.00 = 222.56 g/mol</strong>\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Find moles of Mg₂P₂O₇</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles = \\( \\frac{0.2161 \\text{ g}}{222.56 \\text{ g/mol}} = 0.000971 \\text{ mol} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Find moles of P</strong><br>\n    Each formula unit of Mg₂P₂O₇ contains 2 phosphorus atoms.\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of P = 0.000971 mol × 2 = 0.001942 mol\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Find mass of P</strong><br>\n    Atomic mass of P = 30.97 g/mol\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Mass of P = 0.001942 mol × 30.97 g/mol = 0.06014 g\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 5: Calculate %P in the sample</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      %P = \\( \\frac{\\text{mass of P}}{\\text{mass of sample}} \\times 100 \\)<br>\n      %P = \\( \\frac{0.06014 \\text{ g}}{0.3516 \\text{ g}} \\times 100 = 17.11\\% \\)\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> The sample contains <strong>17.11% phosphorus</strong>.\n  </div>\n  \n  <p style='margin-top: 15px;'>Note: Using more precise atomic masses might give slightly different results. With P=31.0, the answer would be about 17.18%.</p>\n</div>"
+    }
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Analytical Chemistry",
+      "Acid-Base Indicators",
+      "Equilibrium"
+    ],
+    "Question": {
+      "content": "Write the expression that describes the behaviour of acid type indicator.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "HIn ⇌ H⁺ + In⁻; K_a = [H⁺][In⁻]/[HIn]"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Acid-Type Indicator Behavior</h4>\n  \n  <p>Acid-base indicators are themselves weak acids or bases that have different colors in their protonated and deprotonated forms.</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Equilibrium Expression</strong><br>\n    For an acid-type indicator (HIn), the equilibrium is:\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; font-size: 1.2em; text-align: center;'>\n      HIn ⇌ H⁺ + In⁻\n    </div>\n    Where:\n    <ul style='margin-top: 5px;'>\n      <li><strong>HIn</strong> = acid form (one color, e.g., yellow)</li>\n      <li><strong>In⁻</strong> = conjugate base form (different color, e.g., blue)</li>\n    </ul>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Equilibrium Constant Expression</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 5px; margin: 10px 0; font-size: 1.2em; text-align: center;'>\n      K_a = \\( \\frac{[H^+][In^-]}{[HIn]} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Rearranged Form</strong><br>\n    Taking negative logarithms gives the Henderson-Hasselbalch form:\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n      pH = pK_a + log \\( \\frac{[In^-]}{[HIn]} \\)\n    </div>\n    This shows that the color (ratio of [In⁻]/[HIn]) depends on the pH of the solution.\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> HIn ⇌ H⁺ + In⁻; K_a = [H⁺][In⁻]/[HIn]\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Analytical Chemistry",
+      "Precipitation",
+      "Crystallization"
+    ],
+    "Question": {
+      "content": "What is the relationship between nucleation and relative super-saturation?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Directly proportional: higher relative supersaturation leads to more nucleation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Nucleation and Relative Supersaturation</h4>\n  \n  <p><strong>Relative supersaturation</strong> (Q - S)/S is a measure of how supersaturated a solution is, where Q is the actual concentration and S is the equilibrium solubility.</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Relationship</strong><br>\n    There is a <strong>direct relationship</strong>: as relative supersaturation increases, the rate of nucleation increases.\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n      Nucleation rate ∝ Relative supersaturation\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>What happens at different levels?</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li><strong>Low relative supersaturation:</strong> Few nuclei form; existing particles grow larger → crystalline precipitate</li>\n      <li><strong>High relative supersaturation:</strong> Many nuclei form rapidly; many small particles → colloidal or amorphous precipitate</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> The relationship is <strong>directly proportional</strong> - higher relative supersaturation leads to more nucleation.\n  </div>\n  \n  <p style='margin-top: 15px;'>In gravimetric analysis, we control supersaturation by slow addition of reagents, dilution, and heating to promote particle growth over nucleation.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Analytical Chemistry",
+      "Error Analysis"
+    ],
+    "Question": {
+      "content": "A researcher weighed a coin and recorded 89g, if the accepted weight is 43g, what is the absolute error in the measurement?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "46 g"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Absolute Error</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Definition:</strong><br>\n    Absolute error is the difference between the measured value and the true (accepted) value.\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; text-align: center; font-size: 1.2em;'>\n      Absolute Error = |Measured Value - True Value|\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Identify the values</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li>Measured value = 89 g</li>\n      <li>True (accepted) value = 43 g</li>\n    </ul>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Calculate the difference</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Absolute Error = |89 g - 43 g| = |46 g| = <strong>46 g</strong>\n    </div>\n  </div>\n  \n  <div style='background: var(--warningBg); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>⚠️ Note:</strong> This is an extremely large error (more than 100% of the true value). In practice, such a large error would indicate a serious problem with the measurement, possibly a misreading, wrong units, or faulty equipment.\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> The absolute error in the measurement is <strong>46 g</strong>.\n  </div>\n  \n  <p style='margin-top: 15px;'>Absolute error tells us the magnitude of the error but not how significant it is relative to the true value. For that, we would calculate the relative or percent error.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Analytical Chemistry",
+      "Electroanalytical Techniques"
+    ],
+    "Question": {
+      "content": "State any two electro-analytical techniques?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Potentiometry and Voltammetry (or Coulometry, Conductometry, Amperometry)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Electroanalytical Techniques</h4>\n  \n  <p>Electroanalytical techniques are analytical methods that measure electrical properties such as voltage, current, or resistance to determine the concentration of analytes.</p>\n  \n  <div style='display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 15px 0;'>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor);'>⚡ Potentiometry</strong>\n      <p>Measures potential (voltage) between electrodes under zero current conditions. Example: pH meter with glass electrode.</p>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor);'>📊 Voltammetry</strong>\n      <p>Measures current as a function of applied potential. Example: Polarography using a dropping mercury electrode.</p>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor);'>🔋 Coulometry</strong>\n      <p>Measures the quantity of electricity (coulombs) required to completely convert an analyte. Based on Faraday's laws.</p>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor);'>🔄 Conductometry</strong>\n      <p>Measures the electrical conductivity of a solution. Example: Monitoring conductivity in ion chromatography.</p>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor);'>⚙️ Amperometry</strong>\n      <p>Measures current at a fixed applied potential. Used in biosensors and titration endpoint detection.</p>\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> Any two electroanalytical techniques are: <strong>Potentiometry and Voltammetry</strong> (or Coulometry, Conductometry, Amperometry).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Chemistry",
+      "Electrochemistry",
+      "Faraday's Laws",
+      "Electrolysis"
+    ],
+    "Question": {
+      "content": "A current of 1.5A was passed through an aqueous solution of Zinc chloride for 1.75hr at STP. Calculate the amount of zinc deposited at cathode and the volume of chlorine gas evolved at the anode (1F = 96500C)",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Zinc deposited: 3.18 g; Chlorine gas volume: 1.22 L at STP"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Electrolysis of Zinc Chloride Solution</h4>\n  \n  <p><strong>Note:</strong> The question states 1F = 95600C, but this appears to be a typo. The correct Faraday constant is 96500 C/mol. We'll use 96500 C/mol.</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Identify the half-reactions</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      <strong>Cathode (reduction):</strong> Zn²⁺ + 2e⁻ → Zn(s)<br>\n      <strong>Anode (oxidation):</strong> 2Cl⁻ → Cl₂(g) + 2e⁻\n    </div>\n    Both reactions involve <strong>2 moles of electrons</strong> per mole of product.\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Calculate total charge passed</strong><br>\n    Current (I) = 1.5 A<br>\n    Time (t) = 1.75 hours = 1.75 × 3600 = 6300 seconds<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Charge (Q) = I × t = 1.5 A × 6300 s = <strong>9450 C</strong>\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Calculate moles of electrons</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of e⁻ = \\( \\frac{Q}{F} = \\frac{9450}{96500} = 0.09793 \\text{ mol e⁻} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Calculate zinc deposited (cathode)</strong><br>\n    From the half-reaction: 2 mol e⁻ → 1 mol Zn<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of Zn = 0.09793 mol e⁻ × \\( \\frac{1 \\text{ mol Zn}}{2 \\text{ mol e⁻}} = 0.04897 \\text{ mol Zn} \\)<br>\n      Atomic mass of Zn = 65.38 g/mol<br>\n      Mass of Zn = 0.04897 mol × 65.38 g/mol = <strong>3.20 g</strong>\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 5: Calculate chlorine gas evolved (anode)</strong><br>\n    From the half-reaction: 2 mol e⁻ → 1 mol Cl₂<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of Cl₂ = 0.09793 mol e⁻ × \\( \\frac{1 \\text{ mol Cl₂}}{2 \\text{ mol e⁻}} = 0.04897 \\text{ mol Cl₂} \\)\n    </div>\n    At STP, 1 mole of gas occupies 22.4 L<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Volume of Cl₂ = 0.04897 mol × 22.4 L/mol = <strong>1.097 L</strong>\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> \n    <ul>\n      <li><strong>Zinc deposited:</strong> 3.20 g</li>\n      <li><strong>Chlorine gas evolved:</strong> 1.10 L at STP</li>\n    </ul>\n  </div>\n  \n  <p style='margin-top: 15px;'>Note: If using 95600 C/mol as given, moles of e⁻ = 9450/95600 = 0.09885 mol, giving Zn = 3.23 g and Cl₂ = 1.11 L.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18(i)",
+    "topic": [
+      "Analytical Chemistry",
+      "Statistics",
+      "Error Analysis"
+    ],
+    "Question": {
+      "content": "Analysis of calcium levels in soil in mg/kg at three different sites yielded the following results after 4 replicate measurements. If the true value of calcium is 2.65 mg/kg, comment on the type of error in sample A.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sample A shows random error (values are close to true value and randomly distributed)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Error Analysis for Sample A</h4>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong>Sample A values:</strong> 2.71, 2.66, 2.63, 2.70<br>\n    <strong>True value:</strong> 2.65 mg/kg<br>\n    <strong>Mean of A:</strong> (2.71 + 2.66 + 2.63 + 2.70)/4 = 10.70/4 = 2.675 mg/kg\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Analysis:</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li>The values are all very close to the true value (2.65)</li>\n      <li>The mean (2.675) is only 0.025 units above the true value - excellent accuracy</li>\n      <li>The values show small variations around the mean - from 2.63 to 2.71 (range = 0.08)</li>\n      <li>There is no consistent bias - values are scattered both above and below the true value</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Conclusion:</strong> Sample A exhibits <strong>random error</strong> only. The measurements are both precise (close to each other) and accurate (close to true value).\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18(ii)",
+    "topic": [
+      "Analytical Chemistry",
+      "Statistics",
+      "Error Analysis"
+    ],
+    "Question": {
+      "content": "Analysis of calcium levels in soil in mg/kg at three different sites yielded the following results after 4 replicate measurements. If the true value of calcium is 2.65 mg/kg, comment on the type of error in sample B.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sample B shows random error with possible outliers (values are scattered and one is an outlier at 3.00)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Error Analysis for Sample B</h4>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong>Sample B values:</strong> 1.90, 1.80, 3.00, 2.00<br>\n    <strong>True value:</strong> 2.65 mg/kg<br>\n    <strong>Mean of B:</strong> (1.90 + 1.80 + 3.00 + 2.00)/4 = 8.70/4 = 2.175 mg/kg\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Analysis:</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li>The values show wide scatter - from 1.80 to 3.00 (range = 1.20)</li>\n      <li>The value 3.00 appears to be an outlier compared to the others</li>\n      <li>The mean (2.175) is 0.475 units below the true value - poor accuracy</li>\n      <li>Three values (1.80, 1.90, 2.00) cluster around 1.90, while one is much higher</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Conclusion:</strong> Sample B exhibits <strong>random error with a possible outlier</strong>. The precision is poor (large spread), and accuracy is poor (mean far from true value). The 3.00 value might be a gross error or mistake.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18(iii)",
+    "topic": [
+      "Analytical Chemistry",
+      "Statistics",
+      "Error Analysis"
+    ],
+    "Question": {
+      "content": "Analysis of calcium levels in soil in mg/kg at three different sites yielded the following results after 4 replicate measurements. If the true value of calcium is 2.65 mg/kg, comment on the type of error in sample C.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sample C shows systematic error (bias) with one outlier (values consistently high, plus one extremely low value)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Error Analysis for Sample C</h4>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong>Sample C values:</strong> 4.40, 4.10, 0.24, 3.90<br>\n    <strong>True value:</strong> 2.65 mg/kg<br>\n    <strong>Mean of C (including outlier):</strong> (4.40 + 4.10 + 0.24 + 3.90)/4 = 12.64/4 = 3.16 mg/kg<br>\n    <strong>Mean of C (excluding 0.24):</strong> (4.40 + 4.10 + 3.90)/3 = 12.40/3 = 4.13 mg/kg\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Analysis:</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li>Three values (4.40, 4.10, 3.90) are consistently around 4.1 - much higher than true value 2.65</li>\n      <li>This consistent high bias indicates <strong>systematic error</strong> (the method gives results ~1.45 units too high)</li>\n      <li>The value 0.24 is an extreme outlier - probably a gross error (misreading, contamination, etc.)</li>\n      <li>Excluding the outlier, the remaining three values are fairly precise (range 4.40-3.90 = 0.50)</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Conclusion:</strong> Sample C exhibits <strong>systematic error (bias)</strong> plus one <strong>gross error (outlier)</strong>. The measurements are precise but inaccurate due to systematic error.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18(iv)",
+    "topic": [
+      "Analytical Chemistry",
+      "Statistics",
+      "Error Analysis"
+    ],
+    "Question": {
+      "content": "Analysis of calcium levels in soil in mg/kg at three different sites yielded the following results after 4 replicate measurements. If the true value of calcium is 2.65 mg/kg, comment on the precision and accuracy in sample C.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sample C shows good precision (values close to each other except outlier) but poor accuracy (values are biased high)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Precision and Accuracy in Sample C</h4>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong>Sample C values:</strong> 4.40, 4.10, 0.24, 3.90<br>\n    <strong>True value:</strong> 2.65 mg/kg\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Precision Assessment:</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li>Excluding the outlier 0.24, the remaining three values (4.40, 4.10, 3.90) are very close to each other</li>\n      <li>Range of these three = 4.40 - 3.90 = 0.50 mg/kg</li>\n      <li>Standard deviation (excluding outlier) ≈ 0.25 mg/kg</li>\n      <li>This indicates <strong>good precision</strong> - the measurements are reproducible</li>\n    </ul>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Accuracy Assessment:</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li>Mean of the three consistent values = 4.13 mg/kg</li>\n      <li>True value = 2.65 mg/kg</li>\n      <li>Absolute error = 4.13 - 2.65 = 1.48 mg/kg</li>\n      <li>Relative error = (1.48/2.65) × 100 = 55.8%</li>\n      <li>This indicates <strong>poor accuracy</strong> - the values are far from the true value</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Conclusion:</strong> Sample C shows <strong>good precision but poor accuracy</strong>. This is characteristic of <strong>systematic error</strong> - the method gives reproducible results, but they are consistently wrong due to a bias in the measurement system.\n  </div>\n  \n  <p style='margin-top: 15px;'>The outlier (0.24) is likely a gross error separate from the systematic error affecting the other measurements.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Analytical Chemistry",
+      "Statistics",
+      "Error Analysis"
+    ],
+    "Question": {
+      "content": "Relative error and absolute error are used to determine precision. TRUE or FALSE",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Error Types: Precision vs. Accuracy</h4>\n  \n  <p>The statement is <strong>False</strong>. Absolute error and relative error are measures of <strong>accuracy</strong>, not precision.</p>\n  \n  <div style='display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 15px 0;'>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>🎯 Accuracy</strong>\n      <p>How close a measurement is to the <strong>true value</strong></p>\n      <p><strong>Measured by:</strong></p>\n      <ul>\n        <li>Absolute error = |measured - true|</li>\n        <li>Relative error = (absolute error/true value) × 100%</li>\n      </ul>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>📊 Precision</strong>\n      <p>How close repeated measurements are to <strong>each other</strong></p>\n      <p><strong>Measured by:</strong></p>\n      <ul>\n        <li>Standard deviation</li>\n        <li>Variance</li>\n        <li>Range</li>\n        <li>Relative standard deviation</li>\n      </ul>\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> <strong>FALSE</strong>. Absolute and relative errors measure <strong>accuracy</strong>, not precision.\n  </div>\n  \n  <p style='margin-top: 15px;'>A measurement can be precise (consistent) but inaccurate (far from true value) - like Sample C above.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Analytical Chemistry",
+      "Statistics",
+      "Error Analysis"
+    ],
+    "Question": {
+      "content": "Determinant error affects the precision. TRUE or FALSE",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Determinant (Systematic) Errors</h4>\n  \n  <p>The statement is <strong>False</strong>. Determinant errors (also called systematic errors) affect <strong>accuracy</strong>, not precision.</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Types of Errors:</strong><br>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n      <strong style='color: var(--strongColor);'>1. Determinant (Systematic) Errors</strong>\n      <ul>\n        <li>Have a definite cause</li>\n        <li>Affect all measurements in the same way (consistent bias)</li>\n        <li>Affect <strong>accuracy</strong> - make results consistently too high or too low</li>\n        <li>Examples: faulty calibration, impure reagents, personal bias</li>\n        <li>Can be detected and corrected</li>\n      </ul>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n      <strong style='color: var(--strongColor);'>2. Indeterminate (Random) Errors</strong>\n      <ul>\n        <li>Have no definite cause - random fluctuations</li>\n        <li>Affect measurements unpredictably</li>\n        <li>Affect <strong>precision</strong> - cause scatter in results</li>\n        <li>Examples: noise in electronics, personal judgement variations, temperature fluctuations</li>\n        <li>Can be minimized but never eliminated completely</li>\n      </ul>\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> <strong>FALSE</strong>. Determinant (systematic) errors affect <strong>accuracy</strong>, not precision.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Analytical Chemistry",
+      "Statistics",
+      "Error Analysis"
+    ],
+    "Question": {
+      "content": "Indeterminate errors are errors that affect the precision and accuracy of results. TRUE or FALSE",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Indeterminate (Random) Errors</h4>\n  \n  <p>The statement is <strong>True</strong>. Indeterminate errors affect both precision and accuracy, though primarily precision.</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>How indeterminate errors affect results:</strong><br>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n      <strong style='color: var(--strongColor);'>Effect on Precision (Primary):</strong>\n      <ul>\n        <li>Cause scatter in replicate measurements</li>\n        <li>Make results differ from each other</li>\n        <li>Larger random error = poorer precision</li>\n        <li>Measured by standard deviation, variance, etc.</li>\n      </ul>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n      <strong style='color: var(--strongColor);'>Effect on Accuracy (Secondary):</strong>\n      <ul>\n        <li>When we take the mean of several measurements, random errors tend to cancel out</li>\n        <li>However, with only a few measurements, random errors can cause the mean to differ from the true value</li>\n        <li>More replicates = better chance of random errors canceling = better accuracy</li>\n        <li>The standard error of the mean = SD/√n shows how random error affects accuracy of the mean</li>\n      </ul>\n    </div>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Example:</strong>\n    <p>If you weigh something multiple times on a balance with random fluctuations, you'll get slightly different readings each time (poor precision). The average of many readings will be close to the true value (good accuracy), but with only 2-3 readings, the average might be off.</p>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> <strong>TRUE</strong>. Indeterminate errors primarily affect precision, but they can also affect accuracy when the number of measurements is small.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Analytical Chemistry",
+      "Precipitation",
+      "Colloidal Chemistry"
+    ],
+    "Question": {
+      "content": "The type of precipitate that are small and cannot retain by ordinary filters are called?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Colloidal precipitates"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Precipitates</h4>\n  \n  <p>Precipitates can be classified based on particle size:</p>\n  \n  <div style='display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 15px 0;'>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>🧪 Crystalline Precipitates</strong>\n      <ul style='margin-top: 10px;'>\n        <li>Large particles (typically >0.1 μm)</li>\n        <li>Settle quickly</li>\n        <li>Can be trapped by ordinary filters</li>\n        <li>Example: BaSO₄ (when prepared properly)</li>\n      </ul>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>☁️ Colloidal Precipitates</strong>\n      <ul style='margin-top: 10px;'>\n        <li>Very small particles (1-100 nm)</li>\n        <li>Remain suspended in solution</li>\n        <li><strong>Cannot be trapped by ordinary filters</strong></li>\n        <li>Pass through filter paper pores</li>\n        <li>Example: AgCl, Fe(OH)₃</li>\n      </ul>\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why colloidal precipitates can't be filtered:</strong><br>\n    Ordinary filter paper has pore sizes around 2-5 μm. Colloidal particles (1-100 nm = 0.001-0.1 μm) are much smaller than these pores and pass right through.\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> These are called <strong>colloidal precipitates</strong>.\n  </div>\n  \n  <p style='margin-top: 15px;'>To filter colloidal precipitates, we must first coagulate them (by heating, adding electrolytes, etc.) to form larger particles.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Analytical Chemistry",
+      "Indicators",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "What is indicator?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A substance that shows a visible change (usually color) at or near the equivalence point of a titration"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Definition of an Indicator</h4>\n  \n  <div style='background: var(--preset-bg-color); padding: 20px; border-radius: 8px; margin: 15px 0; font-size: 1.1em;'>\n    <p>An <strong>indicator</strong> is a chemical substance that undergoes a visible change (such as a color change, formation of turbidity, or change in fluorescence) when the conditions in its environment change, particularly near the equivalence point of a titration.</p>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Features of Indicators:</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li>They signal the endpoint of a titration</li>\n      <li>The change is usually sharp and easily observable</li>\n      <li>They are used in small amounts (don't affect the reaction)</li>\n      <li>Different indicators are used for different types of titrations</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Types of Indicators:</strong>\n    <table style='width: 100%; margin-top: 10px; border-collapse: collapse;'>\n      <tr style='background: var(--strongColor); color: white;'>\n        <th style='padding: 8px;'>Type</th>\n        <th style='padding: 8px;'>Example</th>\n        <th style='padding: 8px;'>Change</th>\n      </tr>\n      <tr style='border-bottom: 1px solid var(--lightAsh);'>\n        <td style='padding: 8px;'>Acid-base</td>\n        <td style='padding: 8px;'>Phenolphthalein</td>\n        <td style='padding: 8px;'>Colorless ↔ Pink</td>\n      </tr>\n      <tr style='border-bottom: 1px solid var(--lightAsh);'>\n        <td style='padding: 8px;'>Redox</td>\n        <td style='padding: 8px;'>Starch</td>\n        <td style='padding: 8px;'>Colorless ↔ Blue (with I₂)</td>\n      </tr>\n      <tr style='border-bottom: 1px solid var(--lightAsh);'>\n        <td style='padding: 8px;'>Complexometric</td>\n        <td style='padding: 8px;'>Eriochrome Black T</td>\n        <td style='padding: 8px;'>Wine red ↔ Blue</td>\n      </tr>\n      <tr>\n        <td style='padding: 8px;'>Adsorption</td>\n        <td style='padding: 8px;'>Fluorescein</td>\n        <td style='padding: 8px;'>Greenish-yellow ↔ Pink</td>\n      </tr>\n    </table>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> An indicator is a substance that shows a visible change (usually color) at or near the equivalence point of a titration.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Analytical Chemistry",
+      "Classification of Methods"
+    ],
+    "Question": {
+      "content": "Volumetric and voltammetric analysis are both classical quantitative technique. TRUE or FALSE?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Classical vs. Instrumental Methods</h4>\n  \n  <p>The statement is <strong>False</strong>. Volumetric analysis is a classical technique, but voltammetric analysis is an instrumental technique.</p>\n  \n  <div style='display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 15px 0;'>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>🧪 Classical (Wet Chemical) Methods</strong>\n      <ul style='margin-top: 10px;'>\n        <li><strong>Volumetric analysis</strong> (titrimetry)</li>\n        <li>Gravimetric analysis</li>\n        <li>Based on stoichiometric chemical reactions</li>\n        <li>Use simple glassware (burettes, pipettes, balances)</li>\n        <li>No complex electronic instruments</li>\n      </ul>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>🔬 Instrumental Methods</strong>\n      <ul style='margin-top: 10px;'>\n        <li><strong>Voltammetric analysis</strong></li>\n        <li>Spectroscopy, chromatography, electroanalytical methods</li>\n        <li>Based on measuring physical properties</li>\n        <li>Require electronic instruments</li>\n        <li>Often require calibration curves</li>\n      </ul>\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Voltammetry Explained:</strong><br>\n    Voltammetry is an electroanalytical technique where the current is measured as a function of applied potential. It requires a potentiostat, electrodes, and recording equipment - all instrumental.\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> <strong>FALSE</strong>. Volumetric analysis is classical, while voltammetric analysis is instrumental.\n  </div>\n</div>"
+    }
+  }
+  
+  
+  
+  
+  
+]
