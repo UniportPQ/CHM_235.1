@@ -1,0 +1,613 @@
+[  {
+    "type": "pageInfo",
+    "kind": "OBJ",
+    "course_title": "Analystical Chemistry",
+    "code": "CHM 235.1",
+    "session": "2022/2023",
+    "topics": ["Analytical Chemistry", "Precipitation", "Colloidal Chemistry", "Gravimetric Analysis", "Percent Composition", "Definitions", "Qualitative Analysis", "Analytical Process", "Titration", "Terminology", "Solution Chemistry", "Molarity Calculation", "Water Analysis", "Complexometric Titration", "Crystallization", "Stoichiometry", "Reaction Calculations", "Concentration Units", "ppm to Molarity", "Error Analysis", "Statistics", "Chemistry", "Acid-Base Indicators", "Acid-Base Chemistry", "Concentration Calculations", "Acid-Base Theories", "Arrhenius Theory", "Electrochemistry", "Faraday's Laws"],
+    "time": "120"
+  },
+  {
+    "type": "Instruction",
+    "content": "Attempt All Questions"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Analytical Chemistry",
+      "Precipitation",
+      "Colloidal Chemistry"
+    ],
+    "Question": {
+      "content": "Coagulation can be hastened by ______ and ______.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Heating and adding electrolytes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Hastening Coagulation</h4>\n  \n  <p>Coagulation (the aggregation of colloidal particles into larger, filterable masses) can be accelerated by:</p>\n  \n  <div style='display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 15px 0;'>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>🔥 Heating</strong>\n      <p>Increasing temperature increases the kinetic energy of particles, leading to more frequent and energetic collisions. This helps overcome the repulsive forces between colloidal particles.</p>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>🧂 Adding Electrolytes</strong>\n      <p>Ions in the electrolyte neutralize the surface charges on colloidal particles. Since colloidal particles typically have like charges and repel each other, neutralizing these charges allows them to come together and aggregate.</p>\n    </div>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Additional methods:</strong>\n    <ul>\n      <li><strong>Stirring or agitation</strong> - increases collision frequency</li>\n      <li><strong>Allowing time (digestion)</strong> - slow aggregation over time</li>\n      <li><strong>Changing pH</strong> - affects surface charges</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> Coagulation can be hastened by <strong>heating</strong> and <strong>adding electrolytes</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Analytical Chemistry",
+      "Precipitation"
+    ],
+    "Question": {
+      "content": "The substance that is added to cause precipitation is called?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Precipitating agent or precipitant"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Precipitation Terminology</h4>\n  \n  <p>In precipitation reactions, we have specific terms for the substances involved:</p>\n  \n  <div style='background: var(--preset-bg-color); padding: 20px; border-radius: 8px; margin: 15px 0;'>\n    <div style='margin-bottom: 15px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>🧪 Precipitating Agent (Precipitant)</strong>\n      <p>The substance that is added to the solution to cause the formation of a precipitate. It reacts with the analyte to form an insoluble compound.</p>\n      <p><em>Example:</em> In the reaction Ag⁺ + Cl⁻ → AgCl↓, AgNO₃ is the precipitating agent (provides Ag⁺ ions).</p>\n    </div>\n    \n    <div>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>📦 Precipitate</strong>\n      <p>The solid that forms as a result of the precipitation reaction.</p>\n      <p><em>Example:</em> In the same reaction, AgCl is the precipitate.</p>\n    </div>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Common Precipitating Agents:</strong>\n    <ul>\n      <li>AgNO₃ - for halides (Cl⁻, Br⁻, I⁻)</li>\n      <li>BaCl₂ - for sulfate (SO₄²⁻)</li>\n      <li>NH₃ - for certain metal hydroxides</li>\n      <li>(NH₄)₂C₂O₄ - for calcium</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> The substance added to cause precipitation is called the <strong>precipitating agent</strong> or <strong>precipitant</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Analytical Chemistry",
+      "Gravimetric Analysis",
+      "Percent Composition"
+    ],
+    "Question": {
+      "content": "0.5 g of impure KCl was dissolved in water and excess AgNO₃ was added and 0.865 g of insoluble AgCl was obtained. Calculate the percent by mass of KCl in the original sample.",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "90.2%"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating %KCl in Impure Sample</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Write the balanced equation</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; font-family: monospace;'>\n      KCl + AgNO₃ → AgCl↓ + KNO₃\n    </div>\n    This is a 1:1 reaction. <strong>1 mole of KCl produces 1 mole of AgCl</strong>.\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Calculate molar masses</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Molar mass of AgCl = 107.87 + 35.45 = 143.32 g/mol<br>\n      Molar mass of KCl = 39.10 + 35.45 = 74.55 g/mol\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Find moles of AgCl precipitated</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of AgCl = \\( \\frac{0.865 \\text{ g}}{143.32 \\text{ g/mol}} = 0.006035 \\text{ mol} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Relate to KCl</strong><br>\n    From the 1:1 reaction, moles of KCl = moles of AgCl = 0.006035 mol\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 5: Calculate mass of pure KCl</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Mass of KCl = 0.006035 mol × 74.55 g/mol = 0.4499 g\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 6: Calculate %KCl in impure sample</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      %KCl = \\( \\frac{\\text{mass of pure KCl}}{\\text{mass of impure sample}} \\times 100 \\)<br>\n      %KCl = \\( \\frac{0.4499 \\text{ g}}{0.500 \\text{ g}} \\times 100 = 89.98\\% \\)\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> The impure sample contains <strong>90.0% KCl</strong> (rounded to three significant figures).\n  </div>\n  \n  <p style='margin-top: 15px;'>This is a classic gravimetric analysis - we precipitate the analyte as an insoluble compound, weigh it, and calculate back to the original compound.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Analytical Chemistry",
+      "Gravimetric Analysis"
+    ],
+    "Question": {
+      "content": "The process of converting a precipitate into a dissolved state before precipitating it again is called?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reprecipitation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Reprecipitation in Gravimetric Analysis</h4>\n  \n  <p>The process described is called <strong>reprecipitation</strong> (or double precipitation).</p>\n  \n  <div style='background: var(--preset-bg-color); padding: 20px; border-radius: 8px; margin: 15px 0;'>\n    <strong style='color: var(--strongColor); font-size: 1.1em;'>🔄 Reprecipitation</strong>\n    <p>This is a purification technique where a precipitate is dissolved and then precipitated again. It is used to obtain a purer precipitate by removing impurities that were trapped during the first precipitation.</p>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why do we reprecipitate?</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li>To remove impurities that were <strong>coprecipitated</strong> with the initial precipitate</li>\n      <li>Impurities may be trapped inside crystals (occlusion) or adsorbed on surfaces</li>\n      <li>When the precipitate is dissolved, impurities are released</li>\n      <li>Upon reprecipitation under controlled conditions, a purer product forms</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Example:</strong>\n    <p>In the determination of calcium as CaC₂O₄, the initial precipitate may contain adsorbed ions. It can be dissolved in acid and reprecipitated by adding NH₃ slowly, yielding purer calcium oxalate.</p>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> This process is called <strong>reprecipitation</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Analytical Chemistry",
+      "Gravimetric Analysis",
+      "Precipitation"
+    ],
+    "Question": {
+      "content": "The process that contaminates the precipitate is called?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Coprecipitation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Coprecipitation - The Contamination Process</h4>\n  \n  <p>The process that contaminates a precipitate is called <strong>coprecipitation</strong>.</p>\n  \n  <div style='background: var(--preset-bg-color); padding: 20px; border-radius: 8px; margin: 15px 0;'>\n    <strong style='color: var(--strongColor); font-size: 1.1em;'>🧪 Coprecipitation</strong>\n    <p>Coprecipitation is the process where normally soluble compounds are carried down along with the desired precipitate, contaminating it. It occurs when a precipitate forms in the presence of other ions that should remain in solution.</p>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Types of Coprecipitation:</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li><strong>Surface adsorption:</strong> Impurities adsorb on the surface of the precipitate (common with colloidal precipitates)</li>\n      <li><strong>Occlusion:</strong> Impurities are trapped inside the growing crystal</li>\n      <li><strong>Mixed crystal formation:</strong> Impurity ions substitute for analyte ions in the crystal lattice</li>\n      <li><strong>Mechanical entrapment:</strong> Impurities are physically trapped during crystal growth</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Example:</strong>\n    <p>When precipitating BaSO₄ from a solution containing Fe³⁺, some Fe³⁺ may be adsorbed or occluded, contaminating the BaSO₄ precipitate even though Fe³⁺ salts are normally soluble.</p>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> The process that contaminates the precipitate is called <strong>coprecipitation</strong>.\n  </div>\n  \n  <p style='margin-top: 15px;'>Coprecipitation is a major source of error in gravimetric analysis and is minimized by techniques like digestion and reprecipitation.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Analytical Chemistry",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Which area of chemistry involves the separation, identification and the quantification of matter?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Analytical chemistry"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Branches of Chemistry</h4>\n  \n  <p>The area of chemistry that involves separation, identification, and quantification of matter is <strong>analytical chemistry</strong>.</p>\n  \n  <div style='background: var(--preset-bg-color); padding: 20px; border-radius: 8px; margin: 15px 0;'>\n    <strong style='color: var(--strongColor); font-size: 1.1em;'>🔬 Analytical Chemistry</strong>\n    <p>Analytical chemistry is the science of obtaining, processing, and communicating information about the composition and structure of matter. It involves:</p>\n    <ul style='margin-top: 10px;'>\n      <li><strong>Separation:</strong> Isolating components of interest from mixtures</li>\n      <li><strong>Identification (Qualitative analysis):</strong> Determining what substances are present</li>\n      <li><strong>Quantification (Quantitative analysis):</strong> Determining how much of each substance is present</li>\n    </ul>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Other Branches of Chemistry:</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li><strong>Organic chemistry:</strong> Study of carbon-containing compounds</li>\n      <li><strong>Inorganic chemistry:</strong> Study of inorganic compounds</li>\n      <li><strong>Physical chemistry:</strong> Study of physical principles in chemical systems</li>\n      <li><strong>Biochemistry:</strong> Study of chemical processes in living organisms</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> This is <strong>analytical chemistry</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Analytical Chemistry",
+      "Qualitative Analysis"
+    ],
+    "Question": {
+      "content": "Which type of analysis seeks information about the identity or form of substance present?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Qualitative analysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Qualitative vs. Quantitative Analysis</h4>\n  \n  <p>Analytical chemistry is divided into two main branches:</p>\n  \n  <div style='display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 15px 0;'>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>🔍 Qualitative Analysis</strong>\n      <ul style='margin-top: 10px;'>\n        <li><strong>Answers:</strong> \"What is it?\"</li>\n        <li><strong>Seeks information about:</strong> Identity, form, or presence of substances</li>\n        <li><strong>Examples:</strong> Flame tests, spot tests, identifying functional groups</li>\n        <li><strong>Outcome:</strong> Descriptive information</li>\n      </ul>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>⚖️ Quantitative Analysis</strong>\n      <ul style='margin-top: 10px;'>\n        <li><strong>Answers:</strong> \"How much is there?\"</li>\n        <li><strong>Determines:</strong> Amount or concentration</li>\n        <li><strong>Examples:</strong> Titrations, gravimetry, spectrophotometry</li>\n        <li><strong>Outcome:</strong> Numerical data</li>\n      </ul>\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> The type of analysis that seeks information about the identity or form of a substance is <strong>qualitative analysis</strong>.\n  </div>\n  \n  <p style='margin-top: 15px;'>Often, qualitative analysis is performed before quantitative analysis to know what to measure.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Analytical Chemistry",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Define the term analyte",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The substance being identified or measured in an analysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Definition of Analyte</h4>\n  \n  <div style='background: var(--preset-bg-color); padding: 20px; border-radius: 8px; margin: 15px 0; font-size: 1.2em; text-align: center;'>\n    <strong>Analyte</strong> = The chemical species that is being identified or measured in an analytical procedure.\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Key Points:</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li>The analyte is the <strong>component of interest</strong> in the sample</li>\n      <li>It can be an element, ion, compound, or any chemical species</li>\n      <li>The entire analytical method is designed to determine this specific substance</li>\n      <li>Everything else in the sample is called the <strong>matrix</strong></li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Examples:</strong>\n    <table style='width: 100%; margin-top: 10px;'>\n      <tr>\n        <th style='text-align: left;'>Sample</th>\n        <th style='text-align: left;'>Analyte</th>\n      </tr>\n      <tr>\n        <td>Blood</td>\n        <td>Glucose, cholesterol</td>\n      </tr>\n      <tr>\n        <td>River water</td>\n        <td>Lead, mercury, nitrates</td>\n      </tr>\n      <tr>\n        <td>Food</td>\n        <td>Protein, fat, vitamins</td>\n      </tr>\n      <tr>\n        <td>Pharmaceutical tablet</td>\n        <td>Active ingredient (e.g., paracetamol)</td>\n      </tr>\n    </table>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> An analyte is the <strong>substance being identified or measured</strong> in an analysis.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Analytical Chemistry",
+      "Analytical Process"
+    ],
+    "Question": {
+      "content": "The process of measuring the analyte is called?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Determination or analysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Measurement Step</h4>\n  \n  <p>The process of measuring the analyte is called <strong>determination</strong> or simply <strong>analysis</strong>.</p>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 15px 0;'>\n    <strong style='color: var(--strongColor);'>In the context of the analytical process:</strong>\n    \n    <ol style='margin-top: 10px;'>\n      <li><strong>Sampling:</strong> Obtaining a representative portion</li>\n      <li><strong>Sample preparation:</strong> Making the sample ready for measurement</li>\n      <li><strong>Calibration:</strong> Establishing the relationship between signal and concentration</li>\n      <li><strong><span style='color: var(--strongColor);'>Determination/Measurement:</span></strong> Actually measuring the analyte</li>\n      <li><strong>Calculation and evaluation:</strong> Converting measurements to results</li>\n    </ol>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Synonyms:</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li><strong>Assay</strong> - often used in pharmaceutical analysis</li>\n      <li><strong>Quantification</strong> - specifically for quantitative analysis</li>\n      <li><strong>Measurement</strong> - the actual instrumental or chemical step</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> The process of measuring the analyte is called <strong>determination</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Analytical Chemistry",
+      "Analytical Process"
+    ],
+    "Question": {
+      "content": "Mention the third stage in an analytical process",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sampling"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Analytical Process Stages</h4>\n  \n  <p>The complete analytical process typically consists of 7 stages:</p>\n  \n  <ol style='background: var(--preset-bg-color); padding: 15px 30px; border-radius: 5px;'>\n    <li><strong>Formulating the question</strong> - Defining what needs to be determined</li>\n    <li><strong>Selecting analytical procedure</strong> - Choosing appropriate methods</li>\n    <li><strong><span style='color: var(--strongColor); font-size: 1.1em;'>Sampling (3rd stage)</span></strong> - Obtaining a representative sample</li>\n    <li><strong>Sample preparation</strong> - Making the sample ready for analysis</li>\n    <li><strong>Calibration</strong> - Establishing the relationship between signal and concentration</li>\n    <li><strong>Measurement</strong> - Performing the actual analysis</li>\n    <li><strong>Evaluation and reporting</strong> - Calculating results and interpreting findings</li>\n  </ol>\n  \n  <div style='margin-top: 15px;'>\n    <strong style='color: var(--strongColor);'>Why is sampling important?</strong><br>\n    The sample must be representative of the bulk material. If the sample is not representative, even the most accurate analysis will give meaningless results. Sampling is often the largest source of error in an analysis.\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px; margin-top: 15px;'>\n    <strong>✅ Answer:</strong> The third stage in the analytical process is <strong>sampling</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Analytical Chemistry",
+      "Titration",
+      "Terminology"
+    ],
+    "Question": {
+      "content": "The point at which the completion of a reaction is practically observed is called?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "End point"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>End Point vs. Equivalence Point</h4>\n  \n  <p>In titrations, there is an important distinction between two key terms:</p>\n  \n  <div style='display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 15px 0;'>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>🎯 End Point</strong>\n      <ul style='margin-top: 10px;'>\n        <li>The point we <strong>actually observe</strong> in the lab</li>\n        <li>Detected by indicator color change or instrument signal</li>\n        <li>This is what we measure practically</li>\n        <li>Should be as close as possible to the equivalence point</li>\n      </ul>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>⚖️ Equivalence Point</strong>\n      <ul style='margin-top: 10px;'>\n        <li>The theoretical point where the amount of titrant added is exactly stoichiometrically equivalent to the analyte</li>\n        <li>Cannot be measured directly</li>\n        <li>Calculated from stoichiometry</li>\n      </ul>\n    </div>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Analogy:</strong>\n    <p>The equivalence point is like the exact moment your phone battery reaches 100% charge (theoretical). The end point is like when the charging light turns from red to green (observed). A good indicator makes these two happen at nearly the same time.</p>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> The point at which the completion of a reaction is practically observed is called the <strong>end point</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Analytical Chemistry",
+      "Precipitation",
+      "Gravimetric Analysis"
+    ],
+    "Question": {
+      "content": "Which type of precipitate is more easily filtered and purified?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Crystalline precipitate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Precipitates</h4>\n  \n  <p><strong>Crystalline precipitates</strong> are more easily filtered and purified compared to colloidal precipitates.</p>\n  \n  <div style='display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 15px 0;'>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>✨ Crystalline Precipitates</strong>\n      <ul style='margin-top: 10px;'>\n        <li>Large particle size</li>\n        <li>Settle quickly</li>\n        <li><strong>Easy to filter</strong> - trapped by ordinary filter paper</li>\n        <li><strong>Easy to purify</strong> - low surface area means less adsorption</li>\n        <li>Formed under low supersaturation</li>\n        <li>Example: BaSO₄ (when prepared properly)</li>\n      </ul>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>☁️ Colloidal Precipitates</strong>\n      <ul style='margin-top: 10px;'>\n        <li>Very small particles</li>\n        <li>Remain suspended</li>\n        <li><strong>Difficult to filter</strong> - pass through filter paper</li>\n        <li><strong>Difficult to purify</strong> - large surface area adsorbs impurities</li>\n        <li>Formed under high supersaturation</li>\n        <li>Example: Fe(OH)₃, AgCl</li>\n      </ul>\n    </div>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Why crystalline precipitates are preferred:</strong>\n    <ol>\n      <li>They don't clog filter paper</li>\n      <li>Washing removes impurities more effectively</li>\n      <li>They have less surface area for adsorption</li>\n      <li>They are more pure after digestion</li>\n    </ol>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> <strong>Crystalline precipitates</strong> are more easily filtered and purified.\n  </div>\n  \n  <p style='margin-top: 15px;'>In gravimetric analysis, we try to create conditions that favor crystalline precipitate formation (slow precipitation, heating, etc.).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Analytical Chemistry",
+      "Colloidal Chemistry"
+    ],
+    "Question": {
+      "content": "The process by which a coagulated colloid reverts to its original dispersed state is called?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Peptization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Peptization - The Reverse of Coagulation</h4>\n  \n  <p>The process where a coagulated (aggregated) colloid reverts to its original dispersed state is called <strong>peptization</strong>.</p>\n  \n  <div style='background: var(--preset-bg-color); padding: 20px; border-radius: 8px; margin: 15px 0;'>\n    <strong style='color: var(--strongColor); font-size: 1.1em;'>🔄 Peptization</strong>\n    <p>Peptization is the process of converting a precipitate into colloidal form by washing with a suitable liquid (often pure water). It's essentially the reverse of coagulation.</p>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>How peptization occurs:</strong><br>\n    <ol style='margin-top: 5px;'>\n      <li>A coagulated precipitate forms when colloidal particles aggregate</li>\n      <li>When washed with pure water, the electrolyte that caused coagulation is removed</li>\n      <li>Without the electrolyte to neutralize surface charges, the particles repel each other again</li>\n      <li>The large aggregates break apart into individual colloidal particles</li>\n      <li>The precipitate becomes peptized and can pass through filters</li>\n    </ol>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Importance in gravimetric analysis:</strong>\n    <p>Peptization is a problem because it can cause loss of precipitate during washing. To prevent it, precipitates are washed with a solution containing a volatile electrolyte (like dilute HNO₃ or NH₄NO₃) rather than pure water.</p>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> This process is called <strong>peptization</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Analytical Chemistry",
+      "Solution Chemistry",
+      "Molarity Calculation"
+    ],
+    "Question": {
+      "content": "Calculate the molar concentration Na₂CO₃, concentration in the solution produced when a 25.0 ml portion of 0.20 M AgNO₃ is mixed with 50.0 ml of 0.800 M Na₂CO₃?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "0.533 M"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Concentration After Mixing</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Understand what's happening</strong><br>\n    When we mix AgNO₃ and Na₂CO₃, they react to form Ag₂CO₃ precipitate. We need to find the concentration of Na₂CO₃ remaining after reaction.\n    \n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; font-family: monospace;'>\n      2AgNO₃ + Na₂CO₃ → Ag₂CO₃↓ + 2NaNO₃\n    </div>\n    \n    From the equation: <strong>2 mol AgNO₃ react with 1 mol Na₂CO₃</strong>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Calculate initial moles</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of AgNO₃ = 0.0250 L × 0.20 mol/L = 0.00500 mol<br>\n      Moles of Na₂CO₃ = 0.0500 L × 0.800 mol/L = 0.0400 mol\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Determine limiting reactant and consumption</strong><br>\n    From stoichiometry: 0.00500 mol AgNO₃ would require 0.00500/2 = 0.00250 mol Na₂CO₃ to react completely.<br>\n    We have 0.0400 mol Na₂CO₃, which is in excess.<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of Na₂CO₃ consumed = 0.00250 mol<br>\n      Moles of Na₂CO₃ remaining = 0.0400 - 0.00250 = 0.0375 mol\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Calculate new concentration</strong><br>\n    Total volume after mixing = 25.0 mL + 50.0 mL = 75.0 mL = 0.0750 L<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      [Na₂CO₃] = \\( \\frac{0.0375 \\text{ mol}}{0.0750 \\text{ L}} = 0.500 \\text{ M} \\)\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> The concentration of Na₂CO₃ after mixing is <strong>0.500 M</strong>.\n  </div>\n  \n  <p style='margin-top: 15px;'>Note: The precipitate (Ag₂CO₃) is removed from solution, so we only have unreacted Na₂CO₃ and NaNO₃ in solution.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Analytical Chemistry",
+      "Gravimetric Analysis",
+      "Precipitation"
+    ],
+    "Question": {
+      "content": "Occlusion can be minimized by the process called?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Digestion or reprecipitation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Minimizing Occlusion</h4>\n  \n  <p><strong>Occlusion</strong> occurs when impurities are trapped inside the growing crystal lattice during rapid precipitation. This is a common source of error in gravimetric analysis.</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Processes to Minimize Occlusion:</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li><strong>Digestion (Aging):</strong> Allowing the precipitate to stand in contact with the mother liquor (often with heating). During this time, smaller particles dissolve and reprecipitate on larger ones, expelling trapped impurities.</li>\n      <li><strong>Reprecipitation:</strong> Dissolving the precipitate and precipitating it again. This is very effective because impurities trapped in the first precipitate are removed when it's dissolved.</li>\n      <li><strong>Slow precipitation:</strong> Adding precipitating agent slowly with stirring to control crystal growth.</li>\n      <li><strong>Precipitation from homogeneous solution:</strong> Generating the precipitating agent slowly in situ to control supersaturation.</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> Occlusion is primarily minimized by the process called <strong>digestion</strong> (or aging) and, in severe cases, <strong>reprecipitation</strong>.\n  </div>\n  \n  <p style='margin-top: 15px;'>During digestion, the crystal structure rearranges, and impurities are expelled, resulting in a purer precipitate.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Analytical Chemistry",
+      "Gravimetric Analysis",
+      "Precipitation"
+    ],
+    "Question": {
+      "content": "What is formed when interfering ions become trapped within the growing precipitate?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Mixed crystals or occluded impurities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Impurity Trapping in Precipitates</h4>\n  \n  <p>When interfering ions become trapped within a growing precipitate, several types of contamination can occur:</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>1. Mixed Crystal Formation (Isomorphous Replacement)</strong><br>\n    When an interfering ion has similar size and charge to the analyte ion, it can substitute in the crystal lattice. Example: Ba²⁺ and Pb²⁺ in BaSO₄ precipitation.\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>2. Occlusion</strong><br>\n    Impurities are physically trapped within pockets or imperfections in the growing crystal. This happens during rapid crystal growth.\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>3. Inclusion</strong><br>\n    Impurities are trapped at specific sites within the crystal lattice, often due to similar ionic radii.\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> When interfering ions become trapped within the growing precipitate, <strong>mixed crystals</strong> or <strong>occluded impurities</strong> are formed.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Analytical Chemistry",
+      "Water Analysis",
+      "Complexometric Titration"
+    ],
+    "Question": {
+      "content": "Write a complete chemical equation for determination of calcium ion in natural waters",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ca²⁺ + H₂Y²⁻ → CaY²⁻ + 2H⁺ (where H₂Y²⁻ is EDTA)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Determination of Calcium by EDTA Titration</h4>\n  \n  <p>The most common method for determining calcium in natural waters is <strong>complexometric titration with EDTA</strong> (ethylenediaminetetraacetic acid).</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Complete Reaction:</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 5px; margin: 10px 0; font-size: 1.1em; text-align: center;'>\n      Ca²⁺ + H₂Y²⁻ ⇌ CaY²⁻ + 2H⁺\n    </div>\n    Where <strong>H₂Y²⁻</strong> represents the EDTA anion (fully deprotonated form that participates in complexation).\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>More Detailed Form:</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 5px; margin: 10px 0; font-size: 1.1em; text-align: center;'>\n      Ca²⁺ + Na₂H₂Y → Na₂CaY + 2H⁺\n    </div>\n    This shows the disodium salt of EDTA (Na₂H₂Y) which is commonly used in the lab.\n  </div>\n  \n  <div style='background: var(--warningBg); padding: 10px; border-radius: 5px;'>\n    <strong style='color: var(--strongColor);'>Indicators Used:</strong> Eriochrome Black T (EBT) or murexide are common indicators that change color when all Ca²⁺ has been complexed by EDTA.\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px; margin-top: 10px;'>\n    <strong>✅ Answer:</strong> The complete equation is: <strong>Ca²⁺ + H₂Y²⁻ → CaY²⁻ + 2H⁺</strong> where H₂Y²⁻ represents the EDTA ion.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Analytical Chemistry",
+      "Precipitation",
+      "Crystallization"
+    ],
+    "Question": {
+      "content": "Mention two mechanisms of precipitating formation",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Nucleation and particle growth"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Mechanisms of Precipitate Formation</h4>\n  \n  <p>Precipitate formation occurs through two main mechanisms:</p>\n  \n  <div style='display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 15px 0;'>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>1️⃣ Nucleation</strong>\n      <p>The initial stage where a few ions, atoms, or molecules come together to form tiny stable particles called <strong>nuclei</strong>. These serve as seeds for further growth.</p>\n      <ul>\n        <li><strong>Homogeneous nucleation:</strong> Nuclei form spontaneously from solution</li>\n        <li><strong>Heterogeneous nucleation:</strong> Nuclei form on surfaces (dust, container walls)</li>\n      </ul>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>2️⃣ Particle Growth</strong>\n      <p>After nuclei form, additional ions deposit onto the existing nuclei, causing them to grow into larger particles.</p>\n      <ul>\n        <li>Competes with nucleation for available ions</li>\n        <li>Favored under conditions of low supersaturation</li>\n        <li>Produces larger, more crystalline precipitates</li>\n      </ul>\n    </div>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>The Relationship:</strong>\n    <p>The final precipitate characteristics depend on the relative rates of nucleation and particle growth:</p>\n    <ul>\n      <li><strong>High nucleation rate + low growth rate</strong> → many small particles (colloidal)</li>\n      <li><strong>Low nucleation rate + high growth rate</strong> → fewer large particles (crystalline)</li>\n    </ul>\n    <p>Relative supersaturation controls which mechanism dominates.</p>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> The two mechanisms are <strong>nucleation</strong> and <strong>particle growth</strong>.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Analytical Chemistry",
+      "Precipitation",
+      "Colloidal Chemistry"
+    ],
+    "Question": {
+      "content": "What is the relationship between relative supersaturation and colloidal particle formation?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Higher relative supersaturation favors formation of colloidal particles"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Relative Supersaturation and Colloid Formation</h4>\n  \n  <p><strong>Relative supersaturation</strong> (Q - S)/S is a measure of how supersaturated a solution is, where Q is the actual concentration and S is the equilibrium solubility.</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Relationship:</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 5px; margin: 10px 0; text-align: center;'>\n      <strong>Higher relative supersaturation → More colloidal particle formation</strong>\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why does this happen?</strong><br>\n    <ul style='margin-top: 5px;'>\n      <li><strong>High supersaturation:</strong> Many nuclei form very rapidly</li>\n      <li>There are so many nuclei that they compete for available ions</li>\n      <li>Each nucleus gets only a few ions before the supersaturation drops</li>\n      <li>Result: <strong>Many tiny particles</strong> - colloidal precipitate</li>\n    </ul>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Comparison:</strong><br>\n    <table style='width: 100%; background: var(--preset-bg-color); padding: 10px; border-radius: 5px;'>\n      <tr>\n        <th style='text-align: left;'>Relative Supersaturation</th>\n        <th style='text-align: left;'>Result</th>\n      </tr>\n      <tr>\n        <td>Low (slow precipitation)</td>\n        <td>Few nuclei, large crystals → Crystalline precipitate</td>\n      </tr>\n      <tr>\n        <td>High (rapid precipitation)</td>\n        <td>Many nuclei, tiny particles → Colloidal precipitate</td>\n      </tr>\n    </table>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> <strong>Higher relative supersaturation favors colloidal particle formation</strong>. To get crystalline precipitates, we need low relative supersaturation.\n  </div>\n  \n  <p style='margin-top: 15px;'>This is why in gravimetric analysis we control conditions (slow addition, heating, dilution) to keep supersaturation low and obtain filterable crystalline precipitates.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Analytical Chemistry",
+      "Stoichiometry",
+      "Reaction Calculations"
+    ],
+    "Question": {
+      "content": "What mass of Ag₂CO₃ (275.7 g/mol) is formed when 7.47 g AgNO₃ was used to concentrate 2.33 g of Na₂CO₃ (106 g/mol) to Ag₂CO₃?",
+      "type": "subjective"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "4.77 g"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Mass of Ag₂CO₃ Formed</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Write the balanced equation</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; font-family: monospace;'>\n      2AgNO₃ + Na₂CO₃ → Ag₂CO₃↓ + 2NaNO₃\n    </div>\n    From the equation: <strong>2 mol AgNO₃ + 1 mol Na₂CO₃ → 1 mol Ag₂CO₃</strong>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Calculate moles of each reactant</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of AgNO₃ = \\( \\frac{7.47 \\text{ g}}{169.9 \\text{ g/mol}} = 0.04396 \\text{ mol} \\)<br>\n      Moles of Na₂CO₃ = \\( \\frac{2.33 \\text{ g}}{106.0 \\text{ g/mol}} = 0.02198 \\text{ mol} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Determine limiting reactant</strong><br>\n    From stoichiometry: 0.04396 mol AgNO₃ would require 0.04396/2 = 0.02198 mol Na₂CO₃.<br>\n    We have exactly 0.02198 mol Na₂CO₃, so both reactants are in stoichiometric amounts.<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Neither is limiting - they are perfectly matched.\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Calculate moles of Ag₂CO₃ formed</strong><br>\n    From the equation: 2 mol AgNO₃ → 1 mol Ag₂CO₃<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of Ag₂CO₃ = 0.04396 mol AgNO₃ × \\( \\frac{1 \\text{ mol Ag₂CO₃}}{2 \\text{ mol AgNO₃}} = 0.02198 \\text{ mol} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 5: Calculate mass of Ag₂CO₃</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Mass of Ag₂CO₃ = 0.02198 mol × 275.7 g/mol = <strong>6.06 g</strong>\n    </div>\n  </div>\n  \n  <div style='background: var(--warningBg); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>⚠️ Note:</strong> The question says \"7.47 g AgNO₃ was used to concentrate 2.33 g of Na₂CO₃\" - from a previous question, we know that 7.47 g AgNO₃ reacts with 2.33 g Na₂CO₃ completely. The theoretical yield of Ag₂CO₃ is 6.06 g.\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> The mass of Ag₂CO₃ formed is <strong>6.06 g</strong>.\n  </div>\n</div>"
+    }
+  },
+{
+  "type": "Question",
+  "name": "Question 20",
+  "topic": [
+    "Analytical Chemistry",
+    "Stoichiometry",
+    "Reaction Calculations"
+  ],
+  "Question": {
+    "content": "What mass of Ag₂CO₃ (275.7 g/mol) is formed when 7.47 g of AgNO₃ reacts with 2.33 g of Na₂CO₃ (106 g/mol) to form Ag₂CO₃?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "6.06 g"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Mass of Ag₂CO₃ Formed</h4>\n  \n  <p><strong>Note:</strong> The molar mass given in the question appears to have a typo (27.5 g/mol is incorrect). The correct molar mass of Ag₂CO₃ is 275.7 g/mol, which we'll use.</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Write the balanced equation</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; font-family: monospace;'>\n      2AgNO₃ + Na₂CO₃ → Ag₂CO₃↓ + 2NaNO₃\n    </div>\n    From the equation: <strong>2 mol AgNO₃ + 1 mol Na₂CO₃ → 1 mol Ag₂CO₃</strong>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Calculate moles of each reactant</strong><br>\n    Molar mass of AgNO₃ = 169.9 g/mol<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of AgNO₃ = \\( \\frac{7.47 \\text{ g}}{169.9 \\text{ g/mol}} = 0.04396 \\text{ mol} \\)<br>\n      Moles of Na₂CO₃ = \\( \\frac{2.33 \\text{ g}}{106.0 \\text{ g/mol}} = 0.02198 \\text{ mol} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Determine limiting reactant</strong><br>\n    From stoichiometry: 0.04396 mol AgNO₃ would require \\( \\frac{0.04396}{2} = 0.02198 \\) mol Na₂CO₃.<br>\n    We have exactly 0.02198 mol Na₂CO₃, so both reactants are in stoichiometric amounts.<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Neither is limiting - they are perfectly matched.\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Calculate moles of Ag₂CO₃ formed</strong><br>\n    From the equation: 2 mol AgNO₃ → 1 mol Ag₂CO₃<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of Ag₂CO₃ = 0.04396 mol AgNO₃ × \\( \\frac{1 \\text{ mol Ag₂CO₃}}{2 \\text{ mol AgNO₃}} = 0.02198 \\text{ mol} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 5: Calculate mass of Ag₂CO₃</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Mass of Ag₂CO₃ = 0.02198 mol × 275.7 g/mol = <strong>6.06 g</strong>\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> The mass of Ag₂CO₃ formed is <strong>6.06 g</strong>.\n  </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 21",
+  "topic": [
+    "Analytical Chemistry",
+    "Concentration Units",
+    "ppm to Molarity"
+  ],
+  "Question": {
+    "content": "What is the molarity of K⁺ in a solution that contains 63.3 ppm of K⁺Fe(CN)₆?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "1.73 × 10⁻⁴ M"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Converting ppm to Molarity</h4>\n  \n  <p>The compound appears to be K⁺Fe(CN)₆, which should actually be K₃Fe(CN)₆ (potassium ferricyanide) or K₄Fe(CN)₆ (potassium ferrocyanide). Assuming it's K₃Fe(CN)₆ (the more common one).</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Understand ppm</strong><br>\n    63.3 ppm = 63.3 mg/L = 0.0633 g/L of K₃Fe(CN)₆\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Calculate molar mass of K₃Fe(CN)₆</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      K = 39.10 × 3 = 117.30<br>\n      Fe = 55.85 × 1 = 55.85<br>\n      C = 12.01 × 6 = 72.06<br>\n      N = 14.01 × 6 = 84.06<br>\n      <strong>Total = 117.30 + 55.85 + 72.06 + 84.06 = 329.27 g/mol</strong>\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Calculate molarity of K₃Fe(CN)₆</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of K₃Fe(CN)₆ per liter = \\( \\frac{0.0633 \\text{ g/L}}{329.27 \\text{ g/mol}} = 1.923 \\times 10^{-4} \\text{ M} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Find molarity of K⁺</strong><br>\n    Each formula unit of K₃Fe(CN)₆ contains 3 K⁺ ions.<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      [K⁺] = 3 × 1.923 × 10⁻⁴ = <strong>5.77 × 10⁻⁴ M</strong>\n    </div>\n  </div>\n  \n  <div style='background: var(--warningBg); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>⚠️ Note:</strong> If the compound is K₄Fe(CN)₆ (potassium ferrocyanide), molar mass would be 368.35 g/mol, and [K⁺] would be 4 × (0.0633/368.35) = 6.87 × 10⁻⁴ M. The question likely intends K₃Fe(CN)₆.\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> Assuming K₃Fe(CN)₆, the molarity of K⁺ is <strong>5.77 × 10⁻⁴ M</strong>.\n  </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 22",
+  "topic": [
+    "Analytical Chemistry",
+    "Error Analysis",
+    "Statistics"
+  ],
+  "Question": {
+    "content": "Absolute error can be used to ascertain precision. True or False?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "False"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Absolute Error and Precision</h4>\n  \n  <p>The statement is <strong>False</strong>. Absolute error is a measure of <strong>accuracy</strong>, not precision.</p>\n  \n  <div style='display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 15px 0;'>\n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>🎯 Accuracy</strong>\n      <p>How close a measurement is to the <strong>true value</strong></p>\n      <p><strong>Measured by:</strong></p>\n      <ul>\n        <li>Absolute error = |measured - true|</li>\n        <li>Relative error = (absolute error/true value) × 100%</li>\n      </ul>\n      <p><em>Absolute error tells us about accuracy, not precision.</em></p>\n    </div>\n    \n    <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px;'>\n      <strong style='color: var(--strongColor); font-size: 1.1em;'>📊 Precision</strong>\n      <p>How close repeated measurements are to <strong>each other</strong></p>\n      <p><strong>Measured by:</strong></p>\n      <ul>\n        <li>Standard deviation</li>\n        <li>Variance</li>\n        <li>Range</li>\n        <li>Relative standard deviation (coefficient of variation)</li>\n      </ul>\n    </div>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Example:</strong>\n    <p>Two sets of measurements:</p>\n    <ul>\n      <li>Set A: 19.8, 20.1, 20.0 (true value = 20.0) → precise and accurate</li>\n      <li>Set B: 21.8, 22.1, 22.0 (true value = 20.0) → precise but not accurate</li>\n    </ul>\n    <p>Both sets have similar precision (small spread), but Set B has large absolute error (poor accuracy).</p>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> <strong>FALSE</strong>. Absolute error measures accuracy, not precision.\n  </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 23",
+  "topic": [
+    "Chemistry",
+    "Acid-Base Indicators"
+  ],
+  "Question": {
+    "content": "The color of bromocresol green in acidic form is?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Yellow"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bromocresol Green Indicator</h4>\n  \n  <p>Bromocresol green is a common acid-base indicator with a distinct color change:</p>\n  \n  <div style='background: var(--preset-bg-color); padding: 20px; border-radius: 8px; margin: 15px 0; text-align: center;'>\n    <div style='display: flex; justify-content: space-around; align-items: center;'>\n      <div>\n        <div style='width: 100px; height: 100px; background-color: #FFFF00; border-radius: 10px; margin: 0 auto; border: 2px solid #333;'></div>\n        <p><strong>Acidic form (pH < 3.8)</strong><br>Yellow</p>\n      </div>\n      <div style='font-size: 2em;'>→</div>\n      <div>\n        <div style='width: 100px; height: 100px; background-color: #0000FF; border-radius: 10px; margin: 0 auto; border: 2px solid #333;'></div>\n        <p><strong>Basic form (pH > 5.4)</strong><br>Blue</p>\n      </div>\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Properties:</strong><br>\n    <ul>\n      <li><strong>Transition range:</strong> pH 3.8 - 5.4</li>\n      <li><strong>Acidic color:</strong> Yellow</li>\n      <li><strong>Basic color:</strong> Blue</li>\n      <li>At intermediate pH, it shows various shades of green</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> Bromocresol green is <strong>yellow</strong> in its acidic form.\n  </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 24",
+  "topic": [
+    "Chemistry",
+    "Acid-Base Indicators"
+  ],
+  "Question": {
+    "content": "The color of phenolphthalein in base form is?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Pink (or magenta)"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Phenolphthalein Indicator</h4>\n  \n  <p>Phenolphthalein is one of the most common acid-base indicators, known for its sharp color change.</p>\n  \n  <div style='background: var(--preset-bg-color); padding: 20px; border-radius: 8px; margin: 15px 0; text-align: center;'>\n    <div style='display: flex; justify-content: space-around; align-items: center;'>\n      <div>\n        <div style='width: 100px; height: 100px; background-color: transparent; border-radius: 10px; margin: 0 auto; border: 2px solid #333;'></div>\n        <p><strong>Acidic form (pH < 8.2)</strong><br>Colorless</p>\n      </div>\n      <div style='font-size: 2em;'>→</div>\n      <div>\n        <div style='width: 100px; height: 100px; background-color: #FF69B4; border-radius: 10px; margin: 0 auto; border: 2px solid #333;'></div>\n        <p><strong>Basic form (pH > 10)</strong><br>Pink/Magenta</p>\n      </div>\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Properties:</strong><br>\n    <ul>\n      <li><strong>Transition range:</strong> pH 8.2 - 10.0</li>\n      <li><strong>Acidic color:</strong> Colorless</li>\n      <li><strong>Basic color:</strong> Pink to magenta (fuchsia)</li>\n      <li>In very strong base (>pH 13), it may become colorless again</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Common Uses:</strong>\n    <ul>\n      <li>Acid-base titrations (especially strong acid-strong base)</li>\n      <li>Carbonate titration (Warder's method)</li>\n      <li>Household chemistry demonstrations</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> Phenolphthalein is <strong>pink</strong> (or magenta) in its basic form.\n  </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 25",
+  "topic": [
+    "Chemistry",
+    "Acid-Base Chemistry",
+    "Concentration Calculations"
+  ],
+  "Question": {
+    "content": "Calculate the molar concentration of [OH⁻] in 0.001 M Ca(OH)₂ solution",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "0.002 M or 2.0 × 10⁻³ M"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating [OH⁻] in Ca(OH)₂ Solution</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Understand the dissociation</strong><br>\n    Calcium hydroxide is a strong base that dissociates completely in water:\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; font-family: monospace; text-align: center;'>\n      Ca(OH)₂ → Ca²⁺ + 2OH⁻\n    </div>\n    Each formula unit of Ca(OH)₂ produces <strong>2 hydroxide ions</strong>.\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Apply the stoichiometry</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      [OH⁻] = 2 × [Ca(OH)₂]<br>\n      [OH⁻] = 2 × 0.001 M = <strong>0.002 M</strong>\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Express in scientific notation</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      [OH⁻] = 2.0 × 10⁻³ M\n    </div>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Additional calculations (if needed):</strong><br>\n    pOH = -log[OH⁻] = -log(0.002) = 2.70<br>\n    pH = 14 - pOH = 14 - 2.70 = 11.30\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> The concentration of OH⁻ is <strong>0.002 M</strong> or <strong>2.0 × 10⁻³ M</strong>.\n  </div>\n  \n  <p style='margin-top: 15px;'>Note: This assumes complete dissociation, which is true for dilute solutions of Ca(OH)₂.</p>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 26",
+  "topic": [
+    "Chemistry",
+    "Acid-Base Theories",
+    "Arrhenius Theory"
+  ],
+  "Question": {
+    "content": "Cyanide ion is an example of Arrhenius base. True or False?",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "False"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Arrhenius Base Definition</h4>\n  \n  <p>The statement is <strong>False</strong>. According to the Arrhenius theory, cyanide ion (CN⁻) is not an Arrhenius base.</p>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Arrhenius Definition (1884):</strong><br>\n    <ul>\n      <li><strong>Arrhenius acid:</strong> Substance that produces H⁺ ions in water</li>\n      <li><strong>Arrhenius base:</strong> Substance that produces OH⁻ ions in water</li>\n    </ul>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Examples of Arrhenius bases: NaOH, KOH, Ca(OH)₂ - compounds that contain and release OH⁻ ions.\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Cyanide ion (CN⁻):</strong><br>\n    <ul>\n      <li>CN⁻ does not produce OH⁻ ions directly in water</li>\n      <li>It is a Brønsted-Lowry base (accepts H⁺ to form HCN)</li>\n      <li>It hydrolyzes in water: CN⁻ + H₂O ⇌ HCN + OH⁻</li>\n      <li>This produces OH⁻ indirectly, making the solution basic</li>\n      <li>But it's not an Arrhenius base because it doesn't contain OH⁻</li>\n    </ul>\n  </div>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong style='color: var(--strongColor);'>Comparison of Base Theories:</strong>\n    <table style='width: 100%; margin-top: 10px;'>\n      <tr>\n        <th>Theory</th>\n        <th>Definition of Base</th>\n        <th>Is CN⁻ a base?</th>\n      </tr>\n      <tr>\n        <td>Arrhenius</td>\n        <td>Produces OH⁻ in water</td>\n        <td>❌ No</td>\n      </tr>\n      <tr>\n        <td>Brønsted-Lowry</td>\n        <td>Accepts H⁺ (proton acceptor)</td>\n        <td>✅ Yes</td>\n      </tr>\n      <tr>\n        <td>Lewis</td>\n        <td>Donates electron pair</td>\n        <td>✅ Yes</td>\n      </tr>\n    </table>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Answer:</strong> <strong>FALSE</strong>. Cyanide ion is a Brønsted-Lowry base, not an Arrhenius base.\n  </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 27",
+  "topic": [
+    "Analytical Chemistry",
+    "Statistics",
+    "Error Analysis"
+  ],
+  "Question": {
+    "content": "The concentration of Fe(ppm) in six replicate soil samples are 19.4, 19.5, 20.3, 19.6, 19.8, 20.1, if the Fe concentration is actually 20.00 ppm determine (a) Standard deviation (b) Variance (c) Percentage relative error",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "SD = 0.34 ppm; Variance = 0.1156 ppm²; % Relative error = -1.08%"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Statistical Analysis of Fe Measurements</h4>\n  \n  <div style='background: var(--preset-bg-color); padding: 15px; border-radius: 8px; margin: 10px 0;'>\n    <strong>Data:</strong> 19.4, 19.5, 20.3, 19.6, 19.8, 20.1 ppm<br>\n    <strong>True value:</strong> 20.00 ppm<br>\n    <strong>Number of measurements (n):</strong> 6\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Calculate the mean</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Mean = \\( \\frac{19.4 + 19.5 + 20.3 + 19.6 + 19.8 + 20.1}{6} \\)<br>\n      Mean = \\( \\frac{118.7}{6} = 19.78 \\text{ ppm} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Calculate deviations from mean</strong><br>\n    <table style='width: 100%; background: var(--preset-bg-color); padding: 10px; border-radius: 5px;'>\n      <tr>\n        <th>Value (x)</th>\n        <th>Deviation (x - mean)</th>\n        <th>Square of deviation</th>\n      </tr>\n      <tr><td>19.4</td><td>-0.38</td><td>0.1444</td></tr>\n      <tr><td>19.5</td><td>-0.28</td><td>0.0784</td></tr>\n      <tr><td>20.3</td><td>+0.52</td><td>0.2704</td></tr>\n      <tr><td>19.6</td><td>-0.18</td><td>0.0324</td></tr>\n      <tr><td>19.8</td><td>+0.02</td><td>0.0004</td></tr>\n      <tr><td>20.1</td><td>+0.32</td><td>0.1024</td></tr>\n      <tr><td colspan='2' style='text-align: right;'><strong>Sum of squares:</strong></td><td><strong>0.6284</strong></td></tr>\n    </table>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Calculate variance (b)</strong><br>\n    Variance = \\( \\frac{\\text{Sum of squares}}{n-1} \\) for sample standard deviation<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Variance = \\( \\frac{0.6284}{5} = 0.1257 \\text{ ppm}^2 \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Calculate standard deviation (a)</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Standard deviation = \\( \\sqrt{\\text{Variance}} = \\sqrt{0.1257} = 0.355 \\text{ ppm} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 5: Calculate percentage relative error (c)</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Absolute error = Mean - True value = 19.78 - 20.00 = -0.22 ppm<br>\n      % Relative error = \\( \\frac{\\text{Absolute error}}{\\text{True value}} \\times 100 \\)<br>\n      % Relative error = \\( \\frac{-0.22}{20.00} \\times 100 = -1.10\\% \\)\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answers:</strong><br>\n    (a) Standard deviation = <strong>0.355 ppm</strong><br>\n    (b) Variance = <strong>0.1257 ppm²</strong><br>\n    (c) Percentage relative error = <strong>-1.10%</strong>\n  </div>\n  \n  <p style='margin-top: 15px;'>The negative relative error indicates the mean is slightly below the true value (slight negative bias).</p>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 28",
+  "topic": [
+    "Chemistry",
+    "Electrochemistry",
+    "Faraday's Laws"
+  ],
+  "Question": {
+    "content": "A current of 15 milliAmpere was passed through aqueous solution of copper sulphate for 1.75 minutes at STP. Calculate the amount of copper deposited at the cathode.",
+    "type": "subjective"
+  },
+  "Answer": {
+    "type": "string",
+    "content": "0.000518 g or 5.18 × 10⁻⁴ g"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculating Copper Deposited by Electrolysis</h4>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 1: Identify the half-reaction</strong><br>\n    Copper deposition from Cu²⁺ solution:\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0; font-family: monospace; text-align: center;'>\n      Cu²⁺ + 2e⁻ → Cu(s)\n    </div>\n    This shows that <strong>2 moles of electrons</strong> are required to deposit <strong>1 mole of copper</strong>.\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 2: Convert units</strong><br>\n    Current = 15 mA = 15 × 10⁻³ A = 0.015 A<br>\n    Time = 1.75 minutes = 1.75 × 60 = 105 seconds<br>\n    Faraday constant (F) = 96,485 C/mol\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 3: Calculate total charge passed</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Charge (Q) = I × t = 0.015 A × 105 s = <strong>1.575 C</strong>\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 4: Calculate moles of electrons</strong><br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of e⁻ = \\( \\frac{Q}{F} = \\frac{1.575}{96,485} = 1.632 \\times 10^{-5} \\text{ mol e⁻} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 5: Calculate moles of Cu deposited</strong><br>\n    From the half-reaction: 2 mol e⁻ → 1 mol Cu<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Moles of Cu = 1.632 × 10⁻⁵ mol e⁻ × \\( \\frac{1 \\text{ mol Cu}}{2 \\text{ mol e⁻}} = 8.16 \\times 10^{-6} \\text{ mol Cu} \\)\n    </div>\n  </div>\n  \n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Step 6: Calculate mass of Cu</strong><br>\n    Atomic mass of Cu = 63.55 g/mol<br>\n    <div style='background: var(--preset-bg-color); padding: 10px; border-radius: 5px; margin: 10px 0;'>\n      Mass of Cu = 8.16 × 10⁻⁶ mol × 63.55 g/mol = <strong>5.19 × 10⁻⁴ g</strong>\n    </div>\n  </div>\n  \n  <div style='background: var(--infoBg); color: var(--infoCl); padding: 10px; border-radius: 5px;'>\n    <strong>✅ Final Answer:</strong> The mass of copper deposited is <strong>5.19 × 10⁻⁴ g</strong> (or 0.000519 g).\n  </div>\n  \n  <p style='margin-top: 15px;'>This is a very small amount because the current (15 mA) and time (1.75 min) are both small.</p>\n</div>"
+  }
+}
+]
