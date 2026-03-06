@@ -3,8 +3,8 @@
   "kind": "OBJ",
   "course_title": "Analystical Chemistry",
   "code": "CHM 235.1",
-  "session": "2020/2021",
-  "topics": [""],
+  "session": "2019/2020",
+  "topics": ["Gravimetric Analysis", "Definitions", "Sample Preparation", "Techniques", "Errors", "Co-precipitation", "Terminology", "Chemical Reactions", "Procedure", "Precipitation", "Von Weimarn Theory", "Colloidal Chemistry", "Purification", "Acids and Bases", "Arrhenius Theory", "Bronsted-Lowry Theory", "Amphoteric", "Acid-Base Titration", "Indicators", "pH Calculation", "Ionic Equilibrium", "Phenolphthalein", "Analytical Chemistry", "Statistics", "Q-test", "Titration", "Redox Reactions", "Oxidizing and Reducing Agents", "Stoichiometry", "Molarity Calculation"],
   "time": "120"
 },
 {
